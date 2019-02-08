@@ -1,56 +1,7 @@
 {
-    "ignore": [
-		"ioBroker/ioBroker.js-controller",
-		"ioBroker/ioBroker.repositories",
-		"ioBroker/ioBroker",
-		"ioBroker/ioBroker.repochecker",
-		"ioBroker/create-adapter",
-		"ahilwers/iobroker_alexa_sunrise",
-		"robig/iobroker.habpanel.widgets",
-		"ioBroker/ioBroker.docs",
-		"Mic-M/iobroker.homematic-3rd-party-temp-sensors",
-		"buanet/docker-iobroker",
-		"ioBroker/ioBroker.template",
-		"BASM/iobroker-docker",
-		"ioBroker/ioBroker.vis-template",
-		"foxthefox/iobroker_qnap_qpkg",
-		"Matten-Matten/HM-CCU-mit-Alexa-Echo-verbinden-ioBroker-java-",
-		"AlCalzone/ioBroker.template-ts",
-		"grimneko/iocage-plugin-iobroker",
-		"iobroker-community-adapters/info",
-		"duffbeer2000/iobroker_unraid",
-		"ioBroker/ioBroker.translate",
-		"Nilshh/iobroker-docker",
-		"jimusio/iobroker-docker",
-		"anwa/iobroker-docker",
-		"ioBroker/adapter-core",
-		"aokhrimenko/iobroker-scripts",
-		"looxer01/iobroker.Heizungsthermostatsteuerung",
-		"blackrozes/ioBrokerScripts",
-		"Mic-M/iobroker.geofency-php",
-		"Bluemoon1978/Iobroker",
-		"allofmex/docker-iobroker",
-		"Kartax/iobroker-docker",
-		"jhonnsalenss/docker-iobroker-alpine",
-		"Hellhero/docker_iobroker_rpi",
-		"ruhr70/ioBroker.Doku-Adapterenwicklung-mit-VSCode",
-		"ioBroker/ioBroker.vis.cordova",
-		"fnsign/iobroker_raspi_installation",
-		"DirkPlatt/iobroker",
-		"treban/docker-iobroker",
-		"Haba1234/iobroker_autostart",
-		"ioBroker/ioBroker.build",
-		"ruhr70/ioBroker-JS-Skript.hue-Szenen",
-		"Haba1234/homebridge-iobroker",
-		"Locke/docker-iobroker",
-		"kreisklasse/ioBroker",
-		"maxtox/mysensors.sketches.for.iobroker",
-		"Jey-Cee/iobroker-scripts",
-		"Apollon77/iobroker-tools",
-		"ckraenzel/docker-iobroker"
-	],
-    "noIoPackage": [],
-        "checkErrorOld": {
+    "ignore": ["ioBroker/ioBroker.js-controller", "ioBroker/ioBroker.repositories", "ioBroker/ioBroker", "ioBroker/ioBroker.repochecker", "ioBroker/create-adapter", "ahilwers/iobroker_alexa_sunrise", "robig/iobroker.habpanel.widgets", "ioBroker/ioBroker.docs", "Mic-M/iobroker.homematic-3rd-party-temp-sensors", "buanet/docker-iobroker", "ioBroker/ioBroker.template", "BASM/iobroker-docker", "ioBroker/ioBroker.vis-template", "foxthefox/iobroker_qnap_qpkg", "Matten-Matten/HM-CCU-mit-Alexa-Echo-verbinden-ioBroker-java-", "AlCalzone/ioBroker.template-ts", "grimneko/iocage-plugin-iobroker", "iobroker-community-adapters/info", "duffbeer2000/iobroker_unraid", "ioBroker/ioBroker.translate", "Nilshh/iobroker-docker", "jimusio/iobroker-docker", "anwa/iobroker-docker", "ioBroker/adapter-core", "aokhrimenko/iobroker-scripts", "looxer01/iobroker.Heizungsthermostatsteuerung", "blackrozes/ioBrokerScripts", "Mic-M/iobroker.geofency-php", "Bluemoon1978/Iobroker", "allofmex/docker-iobroker", "Kartax/iobroker-docker", "jhonnsalenss/docker-iobroker-alpine", "Hellhero/docker_iobroker_rpi", "ruhr70/ioBroker.Doku-Adapterenwicklung-mit-VSCode", "ioBroker/ioBroker.vis.cordova", "fnsign/iobroker_raspi_installation", "DirkPlatt/iobroker", "treban/docker-iobroker", "Haba1234/iobroker_autostart", "ioBroker/ioBroker.build", "ruhr70/ioBroker-JS-Skript.hue-Szenen", "Haba1234/homebridge-iobroker", "Locke/docker-iobroker", "kreisklasse/ioBroker", "maxtox/mysensors.sketches.for.iobroker", "Jey-Cee/iobroker-scripts", "Apollon77/iobroker-tools", "ckraenzel/docker-iobroker"],
+    "noIoPackage": ["ioBroker/testing", "BasGo/ioBroker.vis-simple-widgets", "lbarth/ioBroker.Touchline", "SBajonczak/ioBroker.SpotifyUi", "DrBing/ioBroker.AC-THOR", "DrBing/ioBroker.AC-ELWA_E", "Mic-M/iobroker.vis-view-pin-protection", "Mic-M/iobroker.fully-kiosk-browser-script", "AlCalzone/ioBroker-react-components", "swissglider/iobroker-project", "JoschaMiddendorf/iobroker", "2scorpio/ioBroker.FindMobile", "suetti/iobroker.nuki-smartlock", "fiesch/docker-iobrokerAugmented", "BuZZy1337/ioBroker.espeasy", "Obilarius/ioBroker_Templates", "inlines/iobroker-glocations-fail", "TA2k/iobrokerVisiPhone", "jens-maus/hm-iobroker", "DutchmanNL/ioBroker.scriptlibrary", "Mic-M/iobroker.pflanzen-giessen-script", "LM-ku/ioBroker.solar_inverter", "ioBroker/ioBroker.type-detector", "AWhiteKnight/ioBroker.moma-ui", "Mic-M/iobroker.logfile-script", "Bjoern3003/ioBroker.custom_widgets", "Jens1809/ioBroker.nello", "ml2k5/iobroker-in-docker", "schmupu/iobroker-devicecontrol", "AbdulAlBane/ioBroker.multiroom", "Andui05/iobroker_scripte", "bondrogeen/ioBrokerpawII", "cruunnerr/ioBroker.pioneer", "itsieber/ioBroker.ciCHWeather", "ioBroker/ioBroker.link-box", "ioBroker/awesome-iobroker", "Garfonso/ioBroker.cec2", "multi-man2000/ioBroker.midea", "sveni-lee/ioBroker.vis-OnkyoPlayer", "uziel123/iobroker", "cernst1980/iobroker.hue_scenes", "XtraLarge/docker_iobroker", "AlCalzone/ioBroker.javascript-editor", "darkiop/iobroker.gartenbewaesserung", "0815chr1s/ioBroker", "AlCalzone/ioBroker-customAlexa-scripts", "mastommel/iobroker-control", "iobroker-community-adapters/ioBroker.Resol-VBUS", "franke1276/ioBroker-scripts", "doebs/ioBroker.luftdaten_info", "ioBroker/AdapterRequests", "dfrozen/ioBroker.tplink", "hometm/ioBroker-Standby", "snics/docker-iobroker", "tukey42/ioBroker.hue-emulator", "aje89/ioBroker.toshibatvremote", "wuast94/docker-fhem-iobroker-mysql", "Smoker2604/iobroker.repetierserver", "svenp/ESP8266-PWS-WU-MQTT-IOBROKER", "Uhula/ioBroker-Material-Design-Style", "andrix-github/iobroker", "Lupla/iobroker-lupla-net", "EbSe/iobroker", "baslm-ag/ioBroker.powerCounter", "OleksiyAntonov/SmartHomeIobrokerRecipes", "dna909/iobroker.scripts", "ldittmar81/ioBroker-i18n-editor", "marcohald/ioBroker-RPI", "dwm66/iobroker-scripts", "jp112sdl/WemosD1_ioBroker_DS18B20", "nuFFeX/iobroker-rpi-docker", "ioBroker/ioBroker.wiki.js", "andiling/ioBroker.heliotherm", "bondrogeen/app_iobroker.paw", "slidynia/iobroker.ebusd", "npmtest/node-npmtest-iobroker", "vr6syncro/iobroker.rfid", "khst60/iobroker.denon", "npmdoc/node-npmdoc-iobroker", "jogicom/iobroker.pelletofensteuerung", "msapogov/iobroker.squeezenode", "SpectreKr/iobroker.upnotifer", "soef/iobroker.fire-tv", "VictorSvetogor/ioBroker.iHealth", "DKlay/docker-iobroker-mod", "ioBroker/ioBroker.obd2", "chriscohnen/iobroker-playground", "DoerrSt/ioBroker.pushalot", "chefkoch009/iobroker", "Goersch/ioBroker.GNChart", "LDSign/ioBroker.hue-bridge-emulator", "ruhr70/ioBroker.script.Raumklima", "ioBroker/ioBroker.eventlist", "akentner/iobroker-docker", "sthufnagl/iobroker.spark", "MehrCurry/docker-iobroker", "Homoran/ioBroker_Wiki", "sthufnagl/iobrokerWiki", "ioBroker/ioBroker.growl", "GermanBluefox/ioBroker.old"],
+    "checkErrorOld": {
         "ioBroker/ioBroker.vis-keyboard": {
             "issue": 3,
             "errorCount": 3
@@ -1555,7 +1506,6 @@
             "issue": 1,
             "errorCount": 0
         }
-        
     },
     "checkError": {
         "frankjoke/ioBroker.radar2": {
@@ -1568,14 +1518,39 @@
             "issue": 32,
             "errorCount": 1
         },
-        "ioBroker/ioBroker.vis-fancyswitch":{
-            "errorList": ["E016","E105","E114","E116"],
+        "ioBroker/ioBroker.vis-fancyswitch": {
+            "errorList": ["E016", "E105", "E114", "E116"],
             "issue": 2,
             "errorCount": 4
         },
-        "ioBroker/ioBroker.vis-google-fonts":{
-            "errorList": ["E105","E114"],
+        "ioBroker/ioBroker.vis-google-fonts": {
+            "errorList": ["E105", "E114"],
             "issue": 3,
+            "errorCount": 2
+        },
+        "shady2k/ioBroker.state-mapping": {
+            "errorList": ["E201", "E300"],
+            "issue": 2,
+            "errorCount": 2
+        },
+        "ioBroker/ioBroker.corrently": {
+            "errorList": ["E019", "E125", "E300", "E402"],
+            "issue": 2,
+            "errorCount": 4
+        },
+        "Harald-B-Rupp/ioBroker.lora-multitech": {
+            "errorList": ["E103", "E106", "E201", "E300"],
+            "issue": 1,
+            "errorCount": 4
+        },
+        "ioBroker/ioBroker.hm-rpc": {
+            "errorList": ["E301"],
+            "issue": 152,
+            "errorCount": 1
+        },
+        "kraglwatz/ioBroker.becker": {
+            "errorList": ["E201", "E300"],
+            "issue": 1,
             "errorCount": 2
         }
     },
