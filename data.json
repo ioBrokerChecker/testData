@@ -9,11 +9,7 @@
         "iobroker-community-adapters/ioBroker.enocean": {
             "issue": 30,
             "errorCount": 2
-        },
-        "Zefau/ioBroker.nello": {
-            "issue": 15,
-            "errorCount": 4
-        },
+        },        
         "jachik/ioBroker.hpcontrol": {
             "issue": 4,
             "errorCount": 5
@@ -57,10 +53,6 @@
         "thewhobox/ioBroker.unite": {
             "issue": 2,
             "errorCount": 6
-        },
-        "volkerrichert/ioBroker.oppoplayer": {
-            "issue": 2,
-            "errorCount": 4
         },
         "schauaufdich/ioBroker.FeiertageAT": {
             "issue": 2,
@@ -168,10 +160,6 @@
         },
         "Apollon77/ioBroker.smartvisu": {
             "issue": 16,
-            "errorCount": 2
-        },
-        "thovid/ioBroker.viessmannapi": {
-            "issue": 17,
             "errorCount": 2
         },
         "jogibear9988/ioBroker.raumfeld": {
@@ -365,10 +353,6 @@
         "frankjoke/ioBroker.broadlink2": {
             "issue": 40,
             "errorCount": 2
-        },
-        "BasGo/ioBroker.places": {
-            "issue": 3,
-            "errorCount": 1
         },
         "soef/ioBroker.wifilight": {
             "issue": 28,
