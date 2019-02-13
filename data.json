@@ -4398,6 +4398,8 @@
 		"foxthefox/ioBroker.fritzdect",
 		"volkerrichert/ioBroker.oppoplayer",
 		"rg-engineering/ioBroker.sbfspot",
+		"ioBroker/ioBroker.telegram",
+		"rg-engineering/ioBroker.ebus",
 		"ioBroker/ioBroker.telegram"
 	]
 }
