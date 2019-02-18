@@ -152,7 +152,9 @@
 		"buanet/iobroker-vis-templates",
 		"Taragorm/iobroker.evohome",
 		"LM-ku/ioBroker.solar_inverter",
-		"cruunnerr/ioBroker.pioneer"
+		"cruunnerr/ioBroker.pioneer",
+		"delfser/ioBroker.poweralarm",
+		"Tino3141/ioBroker.gardenabridge"
 	],
 	"checkErrorOld": {
 		"kennerblick/ioBroker.gigablue": {
@@ -4256,6 +4258,40 @@
 			],
 			"issue": 1,
 			"errorCount": 3
+		},
+		"Bettman66/ioBroker.doorpi": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 2
+		},
+		"bluerai/iobroker.mobile-alerts": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E012",
+				"E103",
+				"E114",
+				"E115",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 12
+		},
+		"SchumyHao/ioBroker.miio": {
+			"errorList": [
+				"E201",
+				"E301"
+			],
+			"issue": 2,
+			"errorCount": 2
 		}
 	},
 	"checkOk": [
