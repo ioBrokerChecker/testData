@@ -178,22 +178,6 @@
 			"issue": 21,
 			"errorCount": 5
 		},
-		"ssbingo/iobroker.speedporthybrid": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 10
-		},
 		"frankjoke/ioBroker.radar": {
 			"errorList": [
 				"E106"
