@@ -165,7 +165,7 @@
 			"errorCount": 1
 		}
 	},
-	"checkError": {
+	"checkError2": {
 		"UncleSamSwiss/ioBroker.loxone": {
 			"errorList": [
 				"E106",
@@ -175,14 +175,20 @@
 				"E201"
 			],
 			"issue": 21,
-			"errorCount": 5
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:18:56Z"
 		},
 		"frankjoke/ioBroker.radar": {
 			"errorList": [
 				"E106"
 			],
 			"issue": 32,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T08:21:28Z"
 		},
 		"ioBroker/ioBroker.vis-fancyswitch": {
 			"errorList": [
@@ -192,7 +198,10 @@
 				"E116"
 			],
 			"issue": 2,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T08:21:31Z"
 		},
 		"ioBroker/ioBroker.vis-google-fonts": {
 			"errorList": [
@@ -200,7 +209,10 @@
 				"E114"
 			],
 			"issue": 3,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T08:21:31Z"
 		},
 		"mabels/iobroker.gofiga": {
 			"errorList": [
@@ -217,14 +229,20 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 11
+			"errorCount": 11,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T09:14:00Z"
 		},
 		"ioBroker/ioBroker.corrently": {
 			"errorList": [
 				"E019"
 			],
 			"issue": 1,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T08:55:20Z"
 		},
 		"kgerlich/iobroker.sunnyportal": {
 			"errorList": [
@@ -238,7 +256,10 @@
 				"E300"
 			],
 			"issue": 3,
-			"errorCount": 8
+			"errorCount": 8,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T09:23:59Z"
 		},
 		"lizzard77/ioBroker.zoe": {
 			"errorList": [
@@ -246,7 +267,10 @@
 				"E300"
 			],
 			"issue": 3,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T09:24:00Z"
 		},
 		"Harald-B-Rupp/ioBroker.lora-multitech": {
 			"errorList": [
@@ -256,7 +280,10 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T09:09:20Z"
 		},
 		"kraglwatz/ioBroker.becker": {
 			"errorList": [
@@ -264,7 +291,10 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T08:55:20Z"
 		},
 		"shady2k/ioBroker.state-mapping": {
 			"errorList": [
@@ -272,7 +302,10 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T08:55:19Z"
 		},
 		"ioBroker/ioBroker.knx": {
 			"errorList": [
@@ -283,14 +316,20 @@
 				"E301"
 			],
 			"issue": 51,
-			"errorCount": 5
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T09:38:59Z"
 		},
 		"ioBroker/ioBroker.text2command": {
 			"errorList": [
 				"E114"
 			],
 			"issue": 41,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T10:05:42Z"
 		},
 		"Apollon77/ioBroker.tuya": {
 			"errorList": [
@@ -298,14 +337,20 @@
 				"E301"
 			],
 			"issue": 19,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T10:15:54Z"
 		},
 		"ioBroker/ioBroker.ham": {
 			"errorList": [
 				"E115"
 			],
 			"issue": 19,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T10:15:55Z"
 		},
 		"bondrogeen/ioBroker.paw": {
 			"errorList": [
@@ -316,7 +361,10 @@
 				"E201"
 			],
 			"issue": 29,
-			"errorCount": 5
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T10:15:55Z"
 		},
 		"UncleSamSwiss/ioBroker.i2c": {
 			"errorList": [
@@ -327,21 +375,30 @@
 				"E201"
 			],
 			"issue": 15,
-			"errorCount": 5
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T10:22:31Z"
 		},
 		"Apollon77/ioBroker.mbus": {
 			"errorList": [
 				"E301"
 			],
 			"issue": 25,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T10:52:30Z"
 		},
 		"simatec/ioBroker.tinker": {
 			"errorList": [
 				"E201"
 			],
 			"issue": 4,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T11:01:44Z"
 		},
 		"ioBroker/ioBroker.mysensors": {
 			"errorList": [
@@ -349,14 +406,20 @@
 				"E115"
 			],
 			"issue": 12,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T11:01:45Z"
 		},
 		"rg-engineering/ioBroker.vis-weather": {
 			"errorList": [
 				"E105"
 			],
 			"issue": 14,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T11:18:41Z"
 		},
 		"a-i-ks/ioBroker.volumio": {
 			"errorList": [
@@ -364,7 +427,10 @@
 				"E300"
 			],
 			"issue": 3,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T11:18:41Z"
 		},
 		"stoamandl/ioBroker.pihole": {
 			"errorList": [
@@ -372,7 +438,10 @@
 				"E300"
 			],
 			"issue": 3,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T11:26:19Z"
 		},
 		"ioBroker/ioBroker.vis-keyboard": {
 			"errorList": [
@@ -381,7 +450,10 @@
 				"E124"
 			],
 			"issue": 3,
-			"errorCount": 3
+			"errorCount": 3,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T17:41:34Z"
 		},
 		"iobroker-community-adapters/ioBroker.enocean": {
 			"errorList": [
@@ -389,7 +461,10 @@
 				"E115"
 			],
 			"issue": 30,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "closed",
+			"createdDate": "2019-02-03T16:18:58Z"
 		},
 		"jachik/ioBroker.hpcontrol": {
 			"errorList": [
@@ -400,7 +475,10 @@
 				"E201"
 			],
 			"issue": 4,
-			"errorCount": 5
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:14:51Z"
 		},
 		"ioBroker/ioBroker.geofency": {
 			"errorList": [
@@ -409,7 +487,10 @@
 				"E114"
 			],
 			"issue": 22,
-			"errorCount": 3
+			"errorCount": 3,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:08:45Z"
 		},
 		"kais0r/ioBroker.kmcanio": {
 			"errorList": [
@@ -418,7 +499,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 3
+			"errorCount": 3,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:08:38Z"
 		},
 		"husky-koglhof/ioBroker.homekit": {
 			"errorList": [
@@ -431,7 +515,10 @@
 				"E300"
 			],
 			"issue": 13,
-			"errorCount": 7
+			"errorCount": 7,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:03:18Z"
 		},
 		"vader722/ioBroker.vuplus": {
 			"errorList": [
@@ -440,7 +527,10 @@
 				"E300"
 			],
 			"issue": 17,
-			"errorCount": 3
+			"errorCount": 3,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:01:24Z"
 		},
 		"ioBroker/ioBroker.mobile": {
 			"errorList": [
@@ -448,7 +538,10 @@
 				"E124"
 			],
 			"issue": 12,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:01:17Z"
 		},
 		"DJONvl/ioBroker.ivr": {
 			"errorList": [
@@ -465,7 +558,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 11
+			"errorCount": 11,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:50:37Z"
 		},
 		"ioBroker/ioBroker.hass": {
 			"errorList": [
@@ -475,7 +571,10 @@
 				"E300"
 			],
 			"issue": 3,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:50:34Z"
 		},
 		"Pmant/ioBroker.fakeroku": {
 			"errorList": [
@@ -483,7 +582,10 @@
 				"E201"
 			],
 			"issue": 17,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:50:32Z"
 		},
 		"Stefan0875/ioBroker.helloWorld": {
 			"errorList": [
@@ -500,7 +602,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 11
+			"errorCount": 11,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:30:32Z"
 		},
 		"thewhobox/ioBroker.unite": {
 			"errorList": [
@@ -512,7 +617,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 6
+			"errorCount": 6,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:30:19Z"
 		},
 		"schauaufdich/ioBroker.FeiertageAT": {
 			"errorList": [
@@ -526,7 +634,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 8
+			"errorCount": 8,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:09:31Z"
 		},
 		"kirovilya/ioBroker.hikvision": {
 			"errorList": [
@@ -537,7 +648,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 5
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T14:54:08Z"
 		},
 		"lennycb/ioBroker.ebus": {
 			"errorList": [
@@ -555,7 +669,10 @@
 				"E428"
 			],
 			"issue": 3,
-			"errorCount": 12
+			"errorCount": 12,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T14:51:51Z"
 		},
 		"soef/ioBroker.yamaha": {
 			"errorList": [
@@ -565,7 +682,10 @@
 				"E201"
 			],
 			"issue": 21,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T14:02:37Z"
 		},
 		"lennycb/ioBroker.miele2": {
 			"errorList": [
@@ -573,7 +693,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T13:05:04Z"
 		},
 		"SteMaker/ioBroker.vis-vdr": {
 			"errorList": [
@@ -586,7 +709,10 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 7
+			"errorCount": 7,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T12:26:47Z"
 		},
 		"truegreyhound/ioBroker.husq-automower": {
 			"errorList": [
@@ -595,7 +721,10 @@
 				"E201"
 			],
 			"issue": 3,
-			"errorCount": 3
+			"errorCount": 3,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T16:47:55Z"
 		},
 		"instalator/ioBroker.mclighting": {
 			"errorList": [
@@ -603,21 +732,30 @@
 				"E115"
 			],
 			"issue": 8,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:50:24Z"
 		},
 		"ioBroker/ioBroker.fhem": {
 			"errorList": [
 				"E115"
 			],
 			"issue": 23,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:44:30Z"
 		},
 		"ioBroker/ioBroker.rflink": {
 			"errorList": [
 				"E114"
 			],
 			"issue": 22,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:39:54Z"
 		},
 		"ioBroker/ioBroker.vis-colorpicker": {
 			"errorList": [
@@ -625,7 +763,10 @@
 				"E114"
 			],
 			"issue": 10,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:38:28Z"
 		},
 		"ioBroker/ioBroker.openhab": {
 			"errorList": [
@@ -633,7 +774,10 @@
 				"E301"
 			],
 			"issue": 23,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:38:20Z"
 		},
 		"instalator/ioBroker.vis-players": {
 			"errorList": [
@@ -643,7 +787,10 @@
 				"E301"
 			],
 			"issue": 11,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:25:54Z"
 		},
 		"GeoCeKid/iobroker.vis-gckcountdown": {
 			"errorList": [
@@ -660,7 +807,10 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 11
+			"errorCount": 11,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:00:59Z"
 		},
 		"ioBroker/ioBroker.hue": {
 			"errorList": [
@@ -668,7 +818,10 @@
 				"E116"
 			],
 			"issue": 56,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T17:05:14Z"
 		},
 		"ioBroker/ioBroker.vis-knob": {
 			"errorList": [
@@ -678,7 +831,10 @@
 				"E201"
 			],
 			"issue": 2,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:14:48Z"
 		},
 		"MeisterTR/ioBroker.landroid-s": {
 			"errorList": [
@@ -686,14 +842,20 @@
 				"E201"
 			],
 			"issue": 17,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:14:45Z"
 		},
 		"instalator/ioBroker.haier": {
 			"errorList": [
 				"E114"
 			],
 			"issue": 11,
-			"errorCount": 1
+			"errorCount": 1,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:14:44Z"
 		},
 		"soef/ioBroker.miele": {
 			"errorList": [
@@ -702,7 +864,10 @@
 				"E201"
 			],
 			"issue": 17,
-			"errorCount": 3
+			"errorCount": 3,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T16:08:45Z"
 		},
 		"Eisbaeeer/ioBroker.onkyo-vis-dev": {
 			"errorList": [
@@ -712,7 +877,10 @@
 				"E201"
 			],
 			"issue": 5,
-			"errorCount": 4
+			"errorCount": 4,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:53:12Z"
 		},
 		"ioBroker/ioBroker.vpn": {
 			"errorList": [
@@ -720,7 +888,10 @@
 				"E300"
 			],
 			"issue": 2,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:35:34Z"
 		},
 		"ioBroker/ioBroker.legacy": {
 			"errorList": [
@@ -733,7 +904,10 @@
 				"E300"
 			],
 			"issue": 3,
-			"errorCount": 7
+			"errorCount": 7,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:35:31Z"
 		},
 		"Apollon77/ioBroker.meross": {
 			"errorList": [
@@ -741,7 +915,10 @@
 				"E201"
 			],
 			"issue": 7,
-			"errorCount": 2
+			"errorCount": 2,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:35:29Z"
 		},
 		"smiling-Jack/ioBroker.vis-wwc": {
 			"errorList": [
@@ -755,3569 +932,10 @@
 				"E300"
 			],
 			"issue": 1,
-			"errorCount": 8
-		},
-		"daniel-2k/ioBroker.nanoleaf-lightpanels": {
-			"errorList": [
-				"E106"
-			],
-			"issue": 8,
-			"errorCount": 1
-		},
-		"Apollon77/ioBroker.smartvisu": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E301"
-			],
-			"issue": 16,
-			"errorCount": 3
-		},
-		"jogibear9988/ioBroker.raumfeld": {
-			"errorList": [
-				"E019",
-				"E112",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 5
-		},
-		"GeorgZanke/ioBroker.pokeys": {
-			"errorList": [
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"bondrogeen/iobroker.apiai": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 14
-		},
-		"Tschoker/ioBroker.spritpreisrechner": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 2
-		},
-		"foxthefox/ioBroker.lifx": {
-			"errorList": [
-				"E109",
-				"E114"
-			],
-			"issue": 5,
-			"errorCount": 2
-		},
-		"cahek2202/ioBroker.yeelight": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 4
-		},
-		"Bettman66/ioBroker.snips": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 10,
-			"errorCount": 1
-		},
-		"ioBroker/ioBroker.vis-history": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E117"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"soef/ioBroker.wm-bus": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E201"
-			],
-			"issue": 25,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.flot": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E124"
-			],
-			"issue": 55,
-			"errorCount": 3
-		},
-		"ruhigundrelaxed/ioBroker.motion": {
-			"errorList": [
-				"E019",
-				"E105",
-				"E106",
-				"E109",
-				"E114",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 12,
-			"errorCount": 8
-		},
-		"rbrunka/ioBroker.windhager": {
-			"errorList": [
-				"E106",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"jonaswre/iobroker.rfoutlet": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E115",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 11
-		},
-		"frankhirsch/ioBroker.etamon": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.megad": {
-			"errorList": [
-				"E106",
-				"E114"
-			],
-			"issue": 16,
-			"errorCount": 2
-		},
-		"Jens1809/ioBroker.pushbullet": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 6
-		},
-		"rg-engineering/ioBroker.myhomecontrol_icons": {
-			"errorList": [
-				"E012",
-				"E112",
-				"E114",
-				"E120",
-				"E121",
-				"E124",
-				"E201"
-			],
-			"issue": 1,
-			"errorCount": 7
-		},
-		"ioBroker/ioBroker.ping": {
-			"errorList": [
-				"E106",
-				"E114"
-			],
-			"issue": 17,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.opcua": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 4
-		},
-		"smaragdschlange/ioBroker.nuki_simple": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 2
-		},
-		"AlCalzone/ioBroker.g-homa": {
-			"errorList": [
-				"E114",
-				"E301"
-			],
-			"issue": 21,
-			"errorCount": 2
-		},
-		"Pix---/ioBroker.solarwetter": {
-			"errorList": [
-				"E016",
-				"E114",
-				"E117",
-				"E201",
-				"E301"
-			],
-			"issue": 7,
-			"errorCount": 5
-		},
-		"hometm/ioBroker.sequence": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E120",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 6
-		},
-		"ausHaus/ioBroker.megaesp": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.onkyo": {
-			"errorList": [
-				"E012",
-				"E019",
-				"E109",
-				"E124"
-			],
-			"issue": 38,
-			"errorCount": 4
-		},
-		"blackrozes/ioBroker.temperusb": {
-			"errorList": [
-				"E014",
-				"E017",
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 8
-		},
-		"Networks4Industry/ioBroker.RutenbeckLink": {
-			"errorList": [
-				"E005",
-				"E006",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"keenan2000/ioBroker.google-sharedlocations": {
-			"errorList": [
-				"E019",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"hash99/ioBroker.pioneer": {
-			"errorList": [
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"nicobode/ioBroker.fibaro": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"mbernau/ioBroker.hama": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 4
-		},
-		"ausHaus/ioBroker.megadd": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 8,
-			"errorCount": 4
-		},
-		"Pmant/ioBroker.harmony": {
-			"errorList": [
-				"E019",
-				"E201"
-			],
-			"issue": 48,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.s7": {
-			"errorList": [
-				"E114"
-			],
-			"issue": 16,
-			"errorCount": 1
-		},
-		"arteck/ioBroker.hs100": {
-			"errorList": [
-				"E106",
-				"E201"
-			],
-			"issue": 40,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.wolf": {
-			"errorList": [
-				"E114"
-			],
-			"issue": 6,
-			"errorCount": 1
-		},
-		"ausHaus/ioBroker.wrapper": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 10,
-			"errorCount": 5
-		},
-		"hometm/ioBroker.roomba-rw": {
-			"errorList": [
-				"E106",
-				"E111",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 7
-		},
-		"smiling-Jack/ioBroker.scriptgui": {
-			"errorList": [
-				"E014",
-				"E016",
-				"E019",
-				"E109",
-				"E112",
-				"E114",
-				"E116",
-				"E117",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 16,
-			"errorCount": 11
-		},
-		"ioBroker/ioBroker.proxy": {
-			"errorList": [
-				"E124"
-			],
-			"issue": 8,
-			"errorCount": 1
-		},
-		"DeepCoreSystem/iobroker.vis-playground": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E105",
-				"E112",
-				"E114",
-				"E120",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 13
-		},
-		"kirovilya/ioBroker.onvif": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E300",
-				"E402",
-				"E405",
-				"E407",
-				"E422",
-				"E426",
-				"E428"
-			],
-			"issue": 4,
-			"errorCount": 9
-		},
-		"marvingrieger/ioBroker.pallazza": {
-			"errorList": [
-				"E019",
-				"E201"
-			],
-			"issue": 6,
-			"errorCount": 2
-		},
-		"instalator/ioBroker.mpd": {
-			"errorList": [
-				"E106",
-				"E201"
-			],
-			"issue": 21,
-			"errorCount": 2
-		},
-		"schmupu/ioBroker.shelly-mqtt": {
-			"errorList": [
-				"E008",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"myelectronics/iobroker.opi": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 9
-		},
-		"frankjoke/ioBroker.broadlink2": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E201"
-			],
-			"issue": 40,
-			"errorCount": 3
-		},
-		"soef/ioBroker.wifilight": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 28,
-			"errorCount": 4
-		},
-		"Go00oglin/ioBroker.blynk": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 6
-		},
-		"Pmant/ioBroker.mqtt-client": {
-			"errorList": [
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 12,
-			"errorCount": 3
-		},
-		"pyatovsky/ioBroker.laurent": {
-			"errorList": [
-				"E016",
-				"E106",
-				"E114",
-				"E116",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 6
-		},
-		"Stefan0875/iobroker.mediaserverJMXAdapter": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 12
-		},
-		"soef/ioBroker.tr-064": {
-			"errorList": [
-				"E019",
-				"E109",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 89,
-			"errorCount": 5
-		},
-		"MueThoS76/iobroker.brother_hl-4150": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E106",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 9
-		},
-		"CTJaeger/ioBroker.tronwallets": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 1
-		},
-		"UncleSamSwiss/ioBroker.kecontact": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 5
-		},
-		"PArns/ioBroker.netatmo": {
-			"errorList": [
-				"E012",
-				"E013",
-				"E106",
-				"E114",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 20,
-			"errorCount": 7
-		},
-		"IcynatorHD/ioBroker.mytado": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E115",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 6
-		},
-		"joergzdarsky/ioBroker.syncthing": {
-			"errorList": [
-				"E106",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.vis-plumb": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"Jey-Cee/iobroker.primelab": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E016",
-				"E103",
-				"E116",
-				"E201",
-				"E301"
-			],
-			"issue": 3,
-			"errorCount": 9
-		},
-		"XKEYFA/iobroker.ebusd": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E105",
-				"E114",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 10
-		},
-		"RPerkuhn/ioBroker.threema-gw": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"shady2k/ioBroker.expire": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.icons-mfd-png": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 4,
-			"errorCount": 4
-		},
-		"ldittmar81/ioBroker.info": {
-			"errorList": [
-				"E105",
-				"E201"
-			],
-			"issue": 13,
-			"errorCount": 2
-		},
-		"UncleSamSwiss/ioBroker.udmx": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E116",
-				"E117",
-				"E201",
-				"E301"
-			],
-			"issue": 3,
-			"errorCount": 6
-		},
-		"soef/ioBroker.samsung": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E114",
-				"E201"
-			],
-			"issue": 22,
-			"errorCount": 4
-		},
-		"t4qjXH8N/ioBroker.gardena": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 10,
-			"errorCount": 1
-		},
-		"ioBroker/ioBroker.vis-web-admin": {
-			"errorList": [
-				"E105",
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"soef/ioBroker.mysensors-2": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E121",
-				"E201"
-			],
-			"issue": 6,
-			"errorCount": 4
-		},
-		"PArns/ioBroker.rwe-smarthome": {
-			"errorList": [
-				"E012",
-				"E016",
-				"E106",
-				"E114",
-				"E116",
-				"E117",
-				"E121",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 10
-		},
-		"ioBroker/ioBroker.simple-api": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E201"
-			],
-			"issue": 14,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.zwave": {
-			"errorList": [
-				"E016",
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 45,
-			"errorCount": 5
-		},
-		"soef/ioBroker.alexa": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E109",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201"
-			],
-			"issue": 23,
-			"errorCount": 8
-		},
-		"Sven18/ioBroker.luftdaten": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E118",
-				"E125",
-				"E201",
-				"E300",
-				"E402",
-				"E405",
-				"E407",
-				"E422",
-				"E426",
-				"E428"
-			],
-			"issue": 2,
-			"errorCount": 12
-		},
-		"ioBroker/ioBroker.icons-fatcow-hosting": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"lollos78/ioBroker.wettersuedtirol": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 6,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.scenes": {
-			"errorList": [
-				"E114",
-				"E201"
-			],
-			"issue": 32,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.vis-rgraph": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201"
-			],
-			"issue": 4,
-			"errorCount": 3
-		},
-		"heindeep/ioBroker.btc_kurs": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E201"
-			],
-			"issue": 4,
-			"errorCount": 3
-		},
-		"sja/ioBroker.pilight": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E201"
-			],
-			"issue": 8,
-			"errorCount": 5
-		},
-		"kirovilya/ioBroker.zont": {
-			"errorList": [
-				"E114",
-				"E201"
-			],
-			"issue": 4,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.wetty": {
-			"errorList": [
-				"E105",
-				"E106",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 5,
-			"errorCount": 5
-		},
-		"iobroker-community-adapters/ioBroker.landroid": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 16,
-			"errorCount": 1
-		},
-		"Eisbaeeer/ioBroker.alpha2": {
-			"errorList": [
-				"E012",
-				"E109",
-				"E124",
-				"E201"
-			],
-			"issue": 8,
-			"errorCount": 4
-		},
-		"mrangni/ioBroker.smawebbox": {
-			"errorList": [
-				"E106",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"Tino3141/ioBroker.gardena": {
-			"errorList": [
-				"E019",
-				"E111",
-				"E122",
-				"E123",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 6
-		},
-		"filippovsky/ioBroker.megadjt": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"CTJaeger/ioBroker.sma-em": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E201",
-				"E405",
-				"E407"
-			],
-			"issue": 23,
-			"errorCount": 5
-		},
-		"ioBroker/ioBroker.sonos": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E201"
-			],
-			"issue": 41,
-			"errorCount": 3
-		},
-		"soef/ioBroker.lightify": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 27,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.vis-jqui-mfd": {
-			"errorList": [
-				"E114",
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 2
-		},
-		"frankjoke/ioBroker.km200": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 14,
-			"errorCount": 4
-		},
-		"bondrogeen/ioBroker.hilink": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E115",
-				"E201",
-				"E405",
-				"E407"
-			],
-			"issue": 10,
-			"errorCount": 6
-		},
-		"chefkoch009/iobroker.knx": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E011",
-				"E015",
-				"E019",
-				"E103",
-				"E106",
-				"E114",
-				"E116",
-				"E117",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 16
-		},
-		"wuliwux/iobroker.onewire": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E114",
-				"E115",
-				"E118",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 13
-		},
-		"DeepCoreSystem/iobroker.vis-deepcore": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E105",
-				"E112",
-				"E114",
-				"E120",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 12
-		},
-		"ioBroker/ioBroker.icons-icons8": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"rg-engineering/ioBroker.myhomecontrol": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 1,
-			"errorCount": 1
-		},
-		"ioBroker/ioBroker.graphpic": {
-			"errorList": [
-				"E114",
-				"E120",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"Eisbaeeer/ioBroker.onkyo-vis": {
-			"errorList": [
-				"E109",
-				"E114",
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"nisiode/ioBroker.vis-material": {
-			"errorList": [
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 3
-		},
-		"aputilov/ioBroker.breezart": {
-			"errorList": [
-				"E019",
-				"E118",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"MeisterTR/ioBroker.yeelight-2": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E201"
-			],
-			"issue": 33,
-			"errorCount": 3
-		},
-		"iobroker-community-adapters/ioBroker.fronius": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 22,
-			"errorCount": 1
-		},
-		"AttackStrawbery/ioBroker.kiwigrid": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E112",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"ioBroker/ioBroker.maxcul": {
-			"errorList": [
-				"E016",
-				"E116",
-				"E201",
-				"E301"
-			],
-			"issue": 22,
-			"errorCount": 4
-		},
-		"foxthefox/ioBroker.milight": {
-			"errorList": [
-				"E109",
-				"E201"
-			],
-			"issue": 24,
-			"errorCount": 2
-		},
-		"foxthefox/ioBroker.hkv": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"MeisterTR/ioBroker.worx": {
-			"errorList": [
-				"E103",
-				"E125",
-				"E201",
-				"E301"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"iobroker-community-adapters/ioBroker.upnp": {
-			"errorList": [
-				"E106",
-				"E201",
-				"E405",
-				"E407",
-				"E426",
-				"E428"
-			],
-			"issue": 28,
-			"errorCount": 6
-		},
-		"arteck/iobroker.paw": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E114",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 11
-		},
-		"raspilc/ioBroker.raspilc": {
-			"errorList": [
-				"E014",
-				"E019",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"DeadBoolean/ioBroker.zoneminder": {
-			"errorList": [
-				"E106",
-				"E112",
-				"E114",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 10,
-			"errorCount": 7
-		},
-		"instalator/ioBroker.yeelight": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 6,
-			"errorCount": 4
-		},
-		"iobroker-community-adapters/ioBroker.sourceanalytix": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E301"
-			],
-			"issue": 36,
-			"errorCount": 3
-		},
-		"dschaedl/ioBroker.weatherunderground": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 34,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.web": {
-			"errorList": [
-				"E115",
-				"E201"
-			],
-			"issue": 17,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.b-control-em": {
-			"errorList": [
-				"E108",
-				"E109",
-				"E114",
-				"E201"
-			],
-			"issue": 5,
-			"errorCount": 4
-		},
-		"Pix---/ioBroker.tankerkoenig": {
-			"errorList": [
-				"E114",
-				"E201",
-				"E301"
-			],
-			"issue": 27,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.tileboard": {
-			"errorList": [
-				"E012",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.vis-special-charts": {
-			"errorList": [
-				"E114",
-				"E120",
-				"E201"
-			],
-			"issue": 1,
-			"errorCount": 3
-		},
-		"soef/ioBroker.find-my-iphone": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 21,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.icons-ultimate-png": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"tmikulski/iobroker.imperihome": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E016",
-				"E103",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 12
-		},
-		"AI3x/ioBroker.fitbit": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"soef/ioBroker.cec": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 6
-		},
-		"klein0r/ioBroker.lametric": {
-			"errorList": [
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 8,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.icons-open-icon-library-png": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.link": {
-			"errorList": [
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"tpostman/ioBroker.ozw": {
-			"errorList": [
-				"E019",
-				"E120",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"Apollon77/ioBroker.homee": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E301"
-			],
-			"issue": 19,
-			"errorCount": 3
-		},
-		"DJONvl/ioBroker.mysensors": {
-			"errorList": [
-				"E012",
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E125",
-				"E300",
-				"E402",
-				"E405",
-				"E407",
-				"E422",
-				"E426",
-				"E428"
-			],
-			"issue": 10,
-			"errorCount": 13
-		},
-		"konsorten/ioBroker.slack": {
-			"errorList": [
-				"E019",
-				"E115",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"tmikulski/ioBroker.VoiceAssistant": {
-			"errorList": [
-				"E005",
-				"E006",
-				"E016",
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 10
-		},
-		"preout/ioBroker.widgettest": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 6
-		},
-		"husky-koglhof/iobroker.occ": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E016",
-				"E103",
-				"E106",
-				"E114",
-				"E116",
-				"E117",
-				"E119",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 15
-		},
-		"xtobiasx/ioBroker.luftdaten": {
-			"errorList": [
-				"E019",
-				"E125",
-				"E201",
-				"E300",
-				"E402",
-				"E405",
-				"E407",
-				"E422",
-				"E426",
-				"E428"
-			],
-			"issue": 2,
-			"errorCount": 10
-		},
-		"iobroker-community-adapters/ioBroker.sony-bravia": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 1
-		},
-		"instalator/ioBroker.mikrotik": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E201"
-			],
-			"issue": 21,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.vis-canvas-gauges": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"kgerlich/iobroker.irobot": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"stefan-franke/ioBroker.alexa": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.openweathermap": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 11,
-			"errorCount": 2
-		},
-		"klein0r/ioBroker.octoprint": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 6,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.ham-template": {
-			"errorList": [
-				"E115",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 4
-		},
-		"soef/ioBroker.js2ftp": {
-			"errorList": [
-				"E019",
-				"E109",
-				"E114",
-				"E115",
-				"E118",
-				"E121",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"foxthefox/ioBroker.nest": {
-			"errorList": [
-				"E106",
-				"E112",
-				"E115",
-				"E120",
-				"E201"
-			],
-			"issue": 5,
-			"errorCount": 5
-		},
-		"eXTreMe-1337/ioBroker.todoist": {
-			"errorList": [
-				"E112",
-				"E201"
-			],
-			"issue": 6,
-			"errorCount": 2
-		},
-		"pyatovsky/ioBroker.vera": {
-			"errorList": [
-				"E016",
-				"E106",
-				"E114",
-				"E116",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 6
-		},
-		"ioBroker/ioBroker.rickshaw": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E124"
-			],
-			"issue": 7,
-			"errorCount": 3
-		},
-		"AttackStrawbery/ioBroker.sma-speedwire": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E115",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 6
-		},
-		"ruhigundrelaxed/ioBroker.boblight": {
-			"errorList": [
-				"E019",
-				"E105",
-				"E106",
-				"E114",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 14,
-			"errorCount": 7
-		},
-		"ioBroker/ioBroker.icons-mfd-svg": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"rg-engineering/ioBroker.minmax": {
-			"errorList": [
-				"E115",
-				"E201"
-			],
-			"issue": 1,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.template-rest": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 5
-		},
-		"instalator/ioBroker.starline": {
-			"errorList": [
-				"E106",
-				"E114"
-			],
-			"issue": 20,
-			"errorCount": 2
-		},
-		"schmupu/ioBroker.devicectrl": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 1
-		},
-		"kleinerDrache/iobroker.lacrosse": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E105",
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 13
-		},
-		"husky-koglhof/iobroker.rpi": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 9
-		},
-		"frankjoke/ioBroker.statemachine": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E115",
-				"E120",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"jens-maus/ioBroker.unifi": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E121",
-				"E201",
-				"E301"
-			],
-			"issue": 13,
-			"errorCount": 6
-		},
-		"schmupu/ioBroker.shelly": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 27,
-			"errorCount": 1
-		},
-		"kirovilya/ioBroker.miio": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.modbus": {
-			"errorList": [
-				"E114"
-			],
-			"issue": 37,
-			"errorCount": 1
-		},
-		"ruhigundrelaxed/ioBroker.hyperion": {
-			"errorList": [
-				"E121",
-				"E125"
-			],
-			"issue": 24,
-			"errorCount": 2
-		},
-		"Causch/ioBroker.network": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 2
-		},
-		"Muskelkatermann/ioBroker.nuimo": {
-			"errorList": [
-				"E008",
-				"E012",
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 9
-		},
-		"fungus75/ioBroker.hptoner": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"twonky4/ioBroker.spotify-premium": {
-			"errorList": [
-				"E106",
-				"E115"
-			],
-			"issue": 47,
-			"errorCount": 2
-		},
-		"hobbyquaker/ioBroker.cul": {
-			"errorList": [
-				"E008",
-				"E009",
-				"E010",
-				"E011",
-				"E012",
-				"E013",
-				"E015",
-				"E017",
-				"E109",
-				"E114",
-				"E116",
-				"E117",
-				"E118",
-				"E119",
-				"E120",
-				"E121",
-				"E124",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 18
-		},
-		"ioBroker/ioBroker.icons-material-png": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"ApolloSK/ioBroker.hmip_ap": {
-			"errorList": [
-				"E008",
-				"E019",
-				"E103",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 6
-		},
-		"sucht3371/ioBroker.poolcontroller": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E201"
-			],
-			"issue": 4,
-			"errorCount": 3
-		},
-		"iobroker-community-adapters/ioBroker.opi": {
-			"errorList": [
-				"E019",
-				"E125",
-				"E405",
-				"E407",
-				"E426",
-				"E428"
-			],
-			"issue": 11,
-			"errorCount": 6
-		},
-		"GermanBluefox/ioBroker.vis-circlemenu": {
-			"errorList": [
-				"E105",
-				"E112",
-				"E114",
-				"E120",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 7
-		},
-		"utzhelmut/ioBroker.vu": {
-			"errorList": [
-				"E019",
-				"E118",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"steinwedel/ioBroker.smartercoffee": {
-			"errorList": [
-				"E012",
-				"E106",
-				"E114",
-				"E121",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 7
-		},
-		"Favd/ioBroker.orvibo": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E114",
-				"E115",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 7
-		},
-		"ioBroker/ioBroker.vis": {
-			"errorList": [
-				"E019",
-				"E116",
-				"E117"
-			],
-			"issue": 213,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.vis-bars": {
-			"errorList": [
-				"E105",
-				"E114"
-			],
-			"issue": 4,
-			"errorCount": 2
-		},
-		"rgwch/ioBroker.mystrom-wifi-switch": {
-			"errorList": [
-				"E300"
-			],
-			"issue": 17,
-			"errorCount": 1
-		},
-		"Nic0205/ioBroker.vis-menus": {
-			"errorList": [
-				"E105",
-				"E112",
-				"E114",
-				"E118",
-				"E120",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"preout/ioBroker.vis-gumbi": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 6
-		},
-		"Eisbaeeer/ioBroker.plexconnect": {
-			"errorList": [
-				"E109",
-				"E114",
-				"E201",
-				"E405",
-				"E407",
-				"E426",
-				"E428"
-			],
-			"issue": 12,
-			"errorCount": 7
-		},
-		"AlGu1/ioBroker.hombot": {
-			"errorList": [
-				"E106",
-				"E115",
-				"E125",
-				"E201"
-			],
-			"issue": 5,
-			"errorCount": 4
-		},
-		"julien100/ioBroker.vis-julienwidgets": {
-			"errorList": [
-				"E019",
-				"E105",
-				"E112",
-				"E114",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 7
-		},
-		"Homoran/iobroker.cubie": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E112",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 10
-		},
-		"Pix---/ioBroker.rtv": {
-			"errorList": [
-				"E114",
-				"E120",
-				"E201",
-				"E301"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"swissglider/ioBroker.zeptrion": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 6,
-			"errorCount": 5
-		},
-		"mrinc/ioBrokerAccessControl": {
-			"errorList": [
-				"E002",
-				"E004",
-				"E007",
-				"E008",
-				"E103",
-				"E114",
-				"E115",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 10
-		},
-		"iobroker-community-adapters/ioBroker.proxmox": {
-			"errorList": [
-				"E115"
-			],
-			"issue": 14,
-			"errorCount": 1
-		},
-		"salambelgord/ioBroker-vis.splitsys": {
-			"errorList": [
-				"E002",
-				"E004",
-				"E007",
-				"E008",
-				"E019",
-				"E103",
-				"E105",
-				"E112",
-				"E114",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 12
-		},
-		"PArns/ioBroker.innogy-smarthome": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201"
-			],
-			"issue": 27,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.lcn": {
-			"errorList": [
-				"E115",
-				"E124",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 3
-		},
-		"BuZZy1337/ioBroker.doorbird": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 7,
-			"errorCount": 1
-		},
-		"ioBroker/ioBroker.pushsafer": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114"
-			],
-			"issue": 14,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.rfxcom": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"Pmant/ioBroker.botvac": {
-			"errorList": [
-				"E012",
-				"E106",
-				"E114",
-				"E115",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 7
-		},
-		"soef/ioBroker.firetv": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 21,
-			"errorCount": 4
-		},
-		"instalator/ioBroker.lgtv-rs": {
-			"errorList": [
-				"E105",
-				"E106",
-				"E114",
-				"E115"
-			],
-			"issue": 6,
-			"errorCount": 4
-		},
-		"Stefan0875/iobroker.samsung2016": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 11
-		},
-		"JoeDev002/ioBroker.powerdog": {
-			"errorList": [
-				"E019",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"Pix---/ioBroker.epson_stylus_px830": {
-			"errorList": [
-				"E016",
-				"E117",
-				"E201",
-				"E301"
-			],
-			"issue": 11,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.graphpic-messages": {
-			"errorList": [
-				"E012",
-				"E106",
-				"E114",
-				"E120",
-				"E121",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"tmikulski/ioBroker.sayitPL": {
-			"errorList": [
-				"E005",
-				"E006",
-				"E008",
-				"E019",
-				"E103",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"liedtkeu/ioBroker.datensammler": {
-			"errorList": [
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"soef/iobroker.js2fs": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E109",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 29,
-			"errorCount": 9
-		},
-		"coyote1/ioBroker.repetier": {
-			"errorList": [
-				"E201",
-				"E301"
-			],
-			"issue": 4,
-			"errorCount": 2
-		},
-		"instalator/ioBroker.benq": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115"
-			],
-			"issue": 13,
-			"errorCount": 3
-		},
-		"steinwedel/ioBroker.mihome-air": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 5
-		},
-		"ioBroker/ioBroker.phantomjs": {
-			"errorList": [
-				"E114"
-			],
-			"issue": 10,
-			"errorCount": 1
-		},
-		"Pmant/ioBroker.vis-justgage": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 19,
-			"errorCount": 4
-		},
-		"CTJaeger/ioBroker.snmp": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E405",
-				"E407",
-				"E426",
-				"E428"
-			],
-			"issue": 21,
-			"errorCount": 7
-		},
-		"Steiger04/ioBroker.milight-smart-light": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 15,
-			"errorCount": 1
-		},
-		"Tino3141/ioBroker.TestAdapter": {
-			"errorList": [
-				"E005",
-				"E006",
-				"E008",
-				"E019",
-				"E103",
-				"E111",
-				"E122",
-				"E123",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 10
-		},
-		"Apollon77/ioBroker.daikin": {
-			"errorList": [
-				"E114",
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 2
-		},
-		"instalator/ioBroker.synology": {
-			"errorList": [
-				"E114",
-				"E301"
-			],
-			"issue": 25,
-			"errorCount": 2
-		},
-		"Pix---/ioBroker.tvspielfilm": {
-			"errorList": [
-				"E114",
-				"E201"
-			],
-			"issue": 15,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.fullcalendar": {
-			"errorList": [
-				"E114",
-				"E115"
-			],
-			"issue": 11,
-			"errorCount": 2
-		},
-		"instalator/ioBroker.foobar2000": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E114"
-			],
-			"issue": 13,
-			"errorCount": 3
-		},
-		"kgerlich/iobroker.bundesliga": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 8
-		},
-		"SpectreKr/iobroker.syslog": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E114",
-				"E201"
-			],
-			"issue": 7,
-			"errorCount": 7
-		},
-		"iobroker-community-adapters/ioBroker.deconz": {
-			"errorList": [
-				"E016",
-				"E116",
-				"E405",
-				"E407",
-				"E426",
-				"E428"
-			],
-			"issue": 26,
-			"errorCount": 6
-		},
-		"soef/ioBroker.koubachi": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 6
-		},
-		"ioBroker/ioBroker.pimatic": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E301"
-			],
-			"issue": 8,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.ham-wemo": {
-			"errorList": [
-				"E115"
-			],
-			"issue": 8,
-			"errorCount": 1
-		},
-		"jensweigele/ioBroker.yahka": {
-			"errorList": [
-				"E115",
-				"E300"
-			],
-			"issue": 99,
-			"errorCount": 2
-		},
-		"Matten-Matten/ioBroker.enigma2": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E115",
-				"E124",
-				"E201",
-				"E301"
-			],
-			"issue": 15,
-			"errorCount": 6
-		},
-		"ioBroker/ioBroker.ham-seasons": {
-			"errorList": [
-				"E115"
-			],
-			"issue": 6,
-			"errorCount": 1
-		},
-		"Apollon77/ioBroker.smartmeter": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114"
-			],
-			"issue": 19,
-			"errorCount": 3
-		},
-		"kirovilya/ioBroker.otgw": {
-			"errorList": [
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 6,
-			"errorCount": 3
-		},
-		"Apollon77/ioBroker.nut": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E201"
-			],
-			"issue": 13,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.icons-addictive-flavour-png": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.noolite": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E301"
-			],
-			"issue": 4,
-			"errorCount": 3
-		},
-		"forelleblau/ioBroker.solarlog_test": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 1
-		},
-		"Jey-Cee/ioBroker.adapter-studio": {
-			"errorList": [
-				"E016",
-				"E019",
-				"E106",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 7
-		},
-		"ioBroker/ioBroker.material": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E124",
-				"E301"
-			],
-			"issue": 49,
-			"errorCount": 5
-		},
-		"ruhr70/ioBroker.fritzbox": {
-			"errorList": [
-				"E106",
-				"E114"
-			],
-			"issue": 30,
-			"errorCount": 2
-		},
-		"jachik/ioBroker.stocks": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E125",
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 6
-		},
-		"UncleSamSwiss/ioBroker.squeezebox": {
-			"errorList": [
-				"E106",
-				"E109",
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 15,
-			"errorCount": 6
-		},
-		"PArns/ioBroker.amazon-dash": {
-			"errorList": [
-				"E012",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 60,
-			"errorCount": 4
-		},
-		"oyooyo/ioBroker.keyble": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 4,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.influxdb": {
-			"errorList": [
-				"E301"
-			],
-			"issue": 40,
-			"errorCount": 1
-		},
-		"Warsnake/ioBroker.tplink": {
-			"errorList": [
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"RPerkuhn/ioBroker.vw-carnet": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 6,
-			"errorCount": 2
-		},
-		"husky-koglhof/iobroker.rules-engine": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E114",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 10
-		},
-		"ioBroker/ioBroker.graphite": {
-			"errorList": [
-				"E008",
-				"E009",
-				"E010",
-				"E011",
-				"E012",
-				"E013",
-				"E015",
-				"E017",
-				"E110",
-				"E111",
-				"E114",
-				"E117",
-				"E118",
-				"E119",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 17
-		},
-		"ruhigundrelaxed/ioBroker.eibd": {
-			"errorList": [
-				"E019",
-				"E105",
-				"E106",
-				"E109",
-				"E114",
-				"E115",
-				"E119",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 11
-		},
-		"mafof/ioBroker.mihome-humidifier": {
-			"errorList": [
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"BasGo/ioBroker.egigeozone": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201"
-			],
-			"issue": 6,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.terminal": {
-			"errorList": [
-				"E105",
-				"E106",
-				"E114",
-				"E115"
-			],
-			"issue": 5,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.mihome-vacuum": {
-			"errorList": [
-				"E106"
-			],
-			"issue": 69,
-			"errorCount": 1
-		},
-		"oberstel/ioBroker.pjlink": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 7,
-			"errorCount": 5
-		},
-		"ioBroker/ioBroker.ip-symcon": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"Motorpsycho123/ioBroker.highcharts": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"Homoran/iobroker.pine64": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 9
-		},
-		"Eisbaeeer/ioBroker.vr200": {
-			"errorList": [
-				"E012",
-				"E106",
-				"E114",
-				"E115",
-				"E124",
-				"E201"
-			],
-			"issue": 7,
-			"errorCount": 6
-		},
-		"veksoft/ioBroker.cubietruck": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E121",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 6
-		},
-		"wuliwux/iobroker.resol": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E012",
-				"E019",
-				"E103",
-				"E106",
-				"E114",
-				"E115",
-				"E118",
-				"E120",
-				"E121",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 16
-		},
-		"ioBroker/ioBroker.telnet": {
-			"errorList": [
-				"E008",
-				"E009",
-				"E010",
-				"E011",
-				"E012",
-				"E013",
-				"E015",
-				"E017",
-				"E109",
-				"E110"
-			],
-			"issue": 1,
-			"errorCount": 10
-		},
-		"MiSchroe/ioBroker.klf200": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 17,
-			"errorCount": 1
-		},
-		"ioBroker/ioBroker.mqtt": {
-			"errorList": [
-				"E201",
-				"E301"
-			],
-			"issue": 43,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.vis-lcars": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201"
-			],
-			"issue": 10,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.icons-material-svg": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"SebastianSchultz/ioBroker.lgtv11": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 10,
-			"errorCount": 1
-		},
-		"kais0r/ioBroker.kmcanio2": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"milo1987/ioBroker.espadapterserver": {
-			"errorList": [
-				"E016",
-				"E019",
-				"E106",
-				"E111",
-				"E116",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"ruhr70/ioBroker.circuit": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 3
-		},
-		"ioBroker/ioBroker.vis-metro": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201"
-			],
-			"issue": 16,
-			"errorCount": 3
-		},
-		"AlCalzone/ioBroker.philips-tv": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 13,
-			"errorCount": 3
-		},
-		"sthufnagl/ioBroker.robonect": {
-			"errorList": [
-				"E014",
-				"E019",
-				"E106",
-				"E114",
-				"E115",
-				"E118",
-				"E121",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 5,
-			"errorCount": 10
-		},
-		"oKliw/ioBroker.irrigation": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"sparkie79/ioBroker.eastron": {
-			"errorList": [
-				"E012",
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 8
-		},
-		"husky-koglhof/ioBroker.hmm": {
-			"errorList": [
-				"E016",
-				"E109",
-				"E112",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 17,
-			"errorCount": 8
-		},
-		"weezly/ioBroker.rpi-rf433": {
-			"errorList": [
-				"E114",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"foxthefox/ioBroker.emoncms": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"snador1977/ioBroker.nightingale": {
-			"errorList": [
-				"E019",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.swagger": {
-			"errorList": [
-				"E016",
-				"E106",
-				"E114",
-				"E116",
-				"E201",
-				"E301"
-			],
-			"issue": 4,
-			"errorCount": 6
-		},
-		"arteck/iobroker.fullybrowser": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E201"
-			],
-			"issue": 11,
-			"errorCount": 7
-		},
-		"Pix---/ioBroker.homepilot": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 13,
-			"errorCount": 1
-		},
-		"Schorsch99/ioBroker.arcam": {
-			"errorList": [
-				"E014",
-				"E019",
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 6
-		},
-		"dna909/iobroker.proxmox": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 9
-		},
-		"AlCalzone/ioBroker.ble": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 44,
-			"errorCount": 1
-		},
-		"kgerlich/iobroker.surepetcareio": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E103",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"dna909/ioBroker.homeconnect": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 1
-		},
-		"franman1/ioBroker": {
-			"errorList": [
-				"E002",
-				"E004",
-				"E007",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E109",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 11
-		},
-		"misanorot/ioBroker.viessmann": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 32,
-			"errorCount": 1
-		},
-		"treborbay/ioBroker.sienna": {
-			"errorList": [
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5
-		},
-		"SteMaker/ioBroker.vdr": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E111",
-				"E114",
-				"E118",
-				"E201",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 7
-		},
-		"anarchocactus/ioBroker.solvis": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E114",
-				"E115",
-				"E118",
-				"E120",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 9
-		},
-		"frankjoke/ioBroker.systeminfo": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 4
-		},
-		"sebilm/ioBroker.nibeuplink": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.vis-hqwidgets": {
-			"errorList": [
-				"E114",
-				"E201"
-			],
-			"issue": 13,
-			"errorCount": 2
-		},
-		"hometm/ioBroker.vcard": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 6,
-			"errorCount": 4
-		},
-		"ruhigundrelaxed/ioBroker.hyperion_client": {
-			"errorList": [
-				"E008",
-				"E019",
-				"E115",
-				"E118",
-				"E121",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"julien100/ioBroker.firebase": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E114",
-				"E115",
-				"E121",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 7
-		},
-		"bratello/iobroker.gofarmtech": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"instalator/ioBroker.kodi": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201"
-			],
-			"issue": 27,
-			"errorCount": 3
-		},
-		"AWhiteKnight/ioBroker.moma": {
-			"errorList": [
-				"E008",
-				"E019",
-				"E201"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"MeisterTR/ioBroker.mihome-lamp": {
-			"errorList": [
-				"E106",
-				"E201"
-			],
-			"issue": 24,
-			"errorCount": 2
-		},
-		"ioBroker/ioBroker.iot": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 30,
-			"errorCount": 2
-		},
-		"Eisbaeeer/ioBroker.piface": {
-			"errorList": [
-				"E109",
-				"E114",
-				"E201",
-				"E405",
-				"E407",
-				"E426",
-				"E428"
-			],
-			"issue": 18,
-			"errorCount": 7
-		},
-		"SwedishChef1/ioBroker.bosesoundtouch": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 29,
-			"errorCount": 4
-		},
-		"joergzdarsky/ioBroker.adaptertemplate": {
-			"errorList": [
-				"E019",
-				"E106",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 6
-		},
-		"konsorten/ioBroker.timeular": {
-			"errorList": [
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 3
-		},
-		"iobroker-community-adapters/ioBroker.discovergy": {
-			"errorList": [
-				"E115",
-				"E201"
-			],
-			"issue": 18,
-			"errorCount": 2
-		},
-		"soef/ioBroker.hid": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E115",
-				"E201"
-			],
-			"issue": 12,
-			"errorCount": 4
-		},
-		"instalator/ioBroker.pandora": {
-			"errorList": [
-				"E012",
-				"E112",
-				"E114",
-				"E115",
-				"E121",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 8
-		},
-		"MeisterTR/ioBroker.kress": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 3,
-			"errorCount": 1
-		},
-		"frankjoke/ioBroker.bmw": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E201",
-				"E301"
-			],
-			"issue": 8,
-			"errorCount": 4
-		},
-		"ioBroker/ioBroker.vis-timeandweather": {
-			"errorList": [
-				"E105",
-				"E114",
-				"E201"
-			],
-			"issue": 6,
-			"errorCount": 3
-		},
-		"iobroker-community-adapters/ioBroker.vis-material": {
-			"errorList": [
-				"E019",
-				"E114",
-				"E201",
-				"E405",
-				"E407"
-			],
-			"issue": 7,
-			"errorCount": 5
-		},
-		"Zefau/ioBroker.nuki2": {
-			"errorList": [
-				"E201"
-			],
-			"issue": 1,
-			"errorCount": 1
-		},
-		"dbechtel89/iobroker.alexa-adapter": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E106",
-				"E115",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 11
-		},
-		"VictorSvetogor/ioBroker.airpurifier": {
-			"errorList": [
-				"E114",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 3
-		},
-		"Taragorm/ioBroker.evohome": {
-			"errorList": [
-				"E115",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 3
-		},
-		"micro7/ioBroker.lirc": {
-			"errorList": [
-				"E106",
-				"E124",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 3
-		},
-		"Bettman66/ioBroker.doorpi": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 2
-		},
-		"bluerai/iobroker.mobile-alerts": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E012",
-				"E103",
-				"E114",
-				"E115",
-				"E121",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 12
-		},
-		"SchumyHao/ioBroker.miio": {
-			"errorList": [
-				"E201",
-				"E301"
-			],
-			"issue": 2,
-			"errorCount": 2
-		},
-		"schmupu/ioBroker.pollenflug": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
+			"errorCount": 8,
 			"warningList": [],
-			"issue": 1,
-			"errorCount": 2,
-			"status": "open"
-		},
-		"Omega236/ioBroker.virtualpowermeter": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 1,
-			"errorCount": 2,
-			"status": "open"
-		},
-		"paveltsytovich/ioBroker.noolitef": {
-			"errorList": [
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 1,
-			"errorCount": 2,
-			"status": "open"
-		},
-		"thewhobox/ioBroker.emby": {
-			"errorList": [
-				"E106",
-				"E116",
-				"E117",
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 1,
-			"errorCount": 5,
-			"status": "open"
+			"status": "open",
+			"createdDate": "2019-02-03T15:30:33Z"
 		}
 	},
 	"checkOk": [
@@ -4400,7 +1018,3888 @@
 		"iobroker-community-adapters/ioBroker.panasonic-viera",
 		"hash99/ioBroker.mieleathome"
 	],
-	"checkError140219": {
-		
+	"checkError": {
+		"daniel-2k/ioBroker.nanoleaf-lightpanels": {
+			"errorList": [
+				"E106"
+			],
+			"issue": 8,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Apollon77/ioBroker.smartvisu": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E301"
+			],
+			"issue": 16,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"jogibear9988/ioBroker.raumfeld": {
+			"errorList": [
+				"E019",
+				"E112",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"GeorgZanke/ioBroker.pokeys": {
+			"errorList": [
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"bondrogeen/iobroker.apiai": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 14,
+			"warningList": []
+		},
+		"Tschoker/ioBroker.spritpreisrechner": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"foxthefox/ioBroker.lifx": {
+			"errorList": [
+				"E109",
+				"E114"
+			],
+			"issue": 5,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"cahek2202/ioBroker.yeelight": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"Bettman66/ioBroker.snips": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 10,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-history": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E117"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"soef/ioBroker.wm-bus": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201"
+			],
+			"issue": 25,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.flot": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E124"
+			],
+			"issue": 55,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ruhigundrelaxed/ioBroker.motion": {
+			"errorList": [
+				"E019",
+				"E105",
+				"E106",
+				"E109",
+				"E114",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 12,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"rbrunka/ioBroker.windhager": {
+			"errorList": [
+				"E106",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"jonaswre/iobroker.rfoutlet": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E115",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"frankhirsch/ioBroker.etamon": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.megad": {
+			"errorList": [
+				"E106",
+				"E114"
+			],
+			"issue": 16,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Jens1809/ioBroker.pushbullet": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"rg-engineering/ioBroker.myhomecontrol_icons": {
+			"errorList": [
+				"E012",
+				"E112",
+				"E114",
+				"E120",
+				"E121",
+				"E124",
+				"E201"
+			],
+			"issue": 1,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.ping": {
+			"errorList": [
+				"E106",
+				"E114"
+			],
+			"issue": 17,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.opcua": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"smaragdschlange/ioBroker.nuki_simple": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"AlCalzone/ioBroker.g-homa": {
+			"errorList": [
+				"E114",
+				"E301"
+			],
+			"issue": 21,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Pix---/ioBroker.solarwetter": {
+			"errorList": [
+				"E016",
+				"E114",
+				"E117",
+				"E201",
+				"E301"
+			],
+			"issue": 7,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"hometm/ioBroker.sequence": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E120",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"ausHaus/ioBroker.megaesp": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.onkyo": {
+			"errorList": [
+				"E012",
+				"E019",
+				"E109",
+				"E124"
+			],
+			"issue": 38,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"blackrozes/ioBroker.temperusb": {
+			"errorList": [
+				"E014",
+				"E017",
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"Networks4Industry/ioBroker.RutenbeckLink": {
+			"errorList": [
+				"E005",
+				"E006",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"keenan2000/ioBroker.google-sharedlocations": {
+			"errorList": [
+				"E019",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"hash99/ioBroker.pioneer": {
+			"errorList": [
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"nicobode/ioBroker.fibaro": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"mbernau/ioBroker.hama": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ausHaus/ioBroker.megadd": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 8,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"Pmant/ioBroker.harmony": {
+			"errorList": [
+				"E019",
+				"E201"
+			],
+			"issue": 48,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.s7": {
+			"errorList": [
+				"E114"
+			],
+			"issue": 16,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"arteck/ioBroker.hs100": {
+			"errorList": [
+				"E106",
+				"E201"
+			],
+			"issue": 40,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.wolf": {
+			"errorList": [
+				"E114"
+			],
+			"issue": 6,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ausHaus/ioBroker.wrapper": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 10,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"hometm/ioBroker.roomba-rw": {
+			"errorList": [
+				"E106",
+				"E111",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"smiling-Jack/ioBroker.scriptgui": {
+			"errorList": [
+				"E014",
+				"E016",
+				"E019",
+				"E109",
+				"E112",
+				"E114",
+				"E116",
+				"E117",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 16,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.proxy": {
+			"errorList": [
+				"E124"
+			],
+			"issue": 8,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"DeepCoreSystem/iobroker.vis-playground": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E105",
+				"E112",
+				"E114",
+				"E120",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 13,
+			"warningList": []
+		},
+		"kirovilya/ioBroker.onvif": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E300",
+				"E402",
+				"E405",
+				"E407",
+				"E422",
+				"E426",
+				"E428"
+			],
+			"issue": 4,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"marvingrieger/ioBroker.pallazza": {
+			"errorList": [
+				"E019",
+				"E201"
+			],
+			"issue": 6,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"instalator/ioBroker.mpd": {
+			"errorList": [
+				"E106",
+				"E201"
+			],
+			"issue": 21,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"schmupu/ioBroker.shelly-mqtt": {
+			"errorList": [
+				"E008",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"myelectronics/iobroker.opi": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"frankjoke/ioBroker.broadlink2": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E201"
+			],
+			"issue": 40,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"soef/ioBroker.wifilight": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 28,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"Go00oglin/ioBroker.blynk": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"Pmant/ioBroker.mqtt-client": {
+			"errorList": [
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 12,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"pyatovsky/ioBroker.laurent": {
+			"errorList": [
+				"E016",
+				"E106",
+				"E114",
+				"E116",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"Stefan0875/iobroker.mediaserverJMXAdapter": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 12,
+			"warningList": []
+		},
+		"soef/ioBroker.tr-064": {
+			"errorList": [
+				"E019",
+				"E109",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 89,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"MueThoS76/iobroker.brother_hl-4150": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E106",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"CTJaeger/ioBroker.tronwallets": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"UncleSamSwiss/ioBroker.kecontact": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"PArns/ioBroker.netatmo": {
+			"errorList": [
+				"E012",
+				"E013",
+				"E106",
+				"E114",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 20,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"IcynatorHD/ioBroker.mytado": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E115",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"joergzdarsky/ioBroker.syncthing": {
+			"errorList": [
+				"E106",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-plumb": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"Jey-Cee/iobroker.primelab": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E016",
+				"E103",
+				"E116",
+				"E201",
+				"E301"
+			],
+			"issue": 3,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"XKEYFA/iobroker.ebusd": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E105",
+				"E114",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"RPerkuhn/ioBroker.threema-gw": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"shady2k/ioBroker.expire": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-mfd-png": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 4,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ldittmar81/ioBroker.info": {
+			"errorList": [
+				"E105",
+				"E201"
+			],
+			"issue": 13,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"UncleSamSwiss/ioBroker.udmx": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E116",
+				"E117",
+				"E201",
+				"E301"
+			],
+			"issue": 3,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"soef/ioBroker.samsung": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E114",
+				"E201"
+			],
+			"issue": 22,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"t4qjXH8N/ioBroker.gardena": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 10,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-web-admin": {
+			"errorList": [
+				"E105",
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"soef/ioBroker.mysensors-2": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E121",
+				"E201"
+			],
+			"issue": 6,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"PArns/ioBroker.rwe-smarthome": {
+			"errorList": [
+				"E012",
+				"E016",
+				"E106",
+				"E114",
+				"E116",
+				"E117",
+				"E121",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.simple-api": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E201"
+			],
+			"issue": 14,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.zwave": {
+			"errorList": [
+				"E016",
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 45,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"soef/ioBroker.alexa": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E109",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201"
+			],
+			"issue": 23,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"Sven18/ioBroker.luftdaten": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E118",
+				"E125",
+				"E201",
+				"E300",
+				"E402",
+				"E405",
+				"E407",
+				"E422",
+				"E426",
+				"E428"
+			],
+			"issue": 2,
+			"errorCount": 12,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-fatcow-hosting": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"lollos78/ioBroker.wettersuedtirol": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 6,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.scenes": {
+			"errorList": [
+				"E114",
+				"E201"
+			],
+			"issue": 32,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-rgraph": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201"
+			],
+			"issue": 4,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"heindeep/ioBroker.btc_kurs": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E201"
+			],
+			"issue": 4,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"sja/ioBroker.pilight": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E201"
+			],
+			"issue": 8,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"kirovilya/ioBroker.zont": {
+			"errorList": [
+				"E114",
+				"E201"
+			],
+			"issue": 4,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.wetty": {
+			"errorList": [
+				"E105",
+				"E106",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 5,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.landroid": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 16,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Eisbaeeer/ioBroker.alpha2": {
+			"errorList": [
+				"E012",
+				"E109",
+				"E124",
+				"E201"
+			],
+			"issue": 8,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"mrangni/ioBroker.smawebbox": {
+			"errorList": [
+				"E106",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"Tino3141/ioBroker.gardena": {
+			"errorList": [
+				"E019",
+				"E111",
+				"E122",
+				"E123",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"filippovsky/ioBroker.megadjt": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"CTJaeger/ioBroker.sma-em": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E201",
+				"E405",
+				"E407"
+			],
+			"issue": 23,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.sonos": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E201"
+			],
+			"issue": 41,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"soef/ioBroker.lightify": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 27,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-jqui-mfd": {
+			"errorList": [
+				"E114",
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"frankjoke/ioBroker.km200": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 14,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"bondrogeen/ioBroker.hilink": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E115",
+				"E201",
+				"E405",
+				"E407"
+			],
+			"issue": 10,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"chefkoch009/iobroker.knx": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E011",
+				"E015",
+				"E019",
+				"E103",
+				"E106",
+				"E114",
+				"E116",
+				"E117",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 16,
+			"warningList": []
+		},
+		"wuliwux/iobroker.onewire": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E114",
+				"E115",
+				"E118",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 13,
+			"warningList": []
+		},
+		"DeepCoreSystem/iobroker.vis-deepcore": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E105",
+				"E112",
+				"E114",
+				"E120",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 12,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-icons8": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"rg-engineering/ioBroker.myhomecontrol": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 1,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.graphpic": {
+			"errorList": [
+				"E114",
+				"E120",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"Eisbaeeer/ioBroker.onkyo-vis": {
+			"errorList": [
+				"E109",
+				"E114",
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"nisiode/ioBroker.vis-material": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"aputilov/ioBroker.breezart": {
+			"errorList": [
+				"E019",
+				"E118",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"MeisterTR/ioBroker.yeelight-2": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E201"
+			],
+			"issue": 33,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.fronius": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 22,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"AttackStrawbery/ioBroker.kiwigrid": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E112",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.maxcul": {
+			"errorList": [
+				"E016",
+				"E116",
+				"E201",
+				"E301"
+			],
+			"issue": 22,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"foxthefox/ioBroker.milight": {
+			"errorList": [
+				"E109",
+				"E201"
+			],
+			"issue": 24,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"foxthefox/ioBroker.hkv": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"MeisterTR/ioBroker.worx": {
+			"errorList": [
+				"E103",
+				"E125",
+				"E201",
+				"E301"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.upnp": {
+			"errorList": [
+				"E106",
+				"E201",
+				"E405",
+				"E407",
+				"E426",
+				"E428"
+			],
+			"issue": 28,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"arteck/iobroker.paw": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E114",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"raspilc/ioBroker.raspilc": {
+			"errorList": [
+				"E014",
+				"E019",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"DeadBoolean/ioBroker.zoneminder": {
+			"errorList": [
+				"E106",
+				"E112",
+				"E114",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 10,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"instalator/ioBroker.yeelight": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 6,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.sourceanalytix": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E301"
+			],
+			"issue": 36,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"dschaedl/ioBroker.weatherunderground": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 34,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.web": {
+			"errorList": [
+				"E115",
+				"E201"
+			],
+			"issue": 17,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.b-control-em": {
+			"errorList": [
+				"E108",
+				"E109",
+				"E114",
+				"E201"
+			],
+			"issue": 5,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"Pix---/ioBroker.tankerkoenig": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E301"
+			],
+			"issue": 27,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.tileboard": {
+			"errorList": [
+				"E012",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-special-charts": {
+			"errorList": [
+				"E114",
+				"E120",
+				"E201"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"soef/ioBroker.find-my-iphone": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 21,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-ultimate-png": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"tmikulski/iobroker.imperihome": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E016",
+				"E103",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 12,
+			"warningList": []
+		},
+		"AI3x/ioBroker.fitbit": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"soef/ioBroker.cec": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"klein0r/ioBroker.lametric": {
+			"errorList": [
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 8,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-open-icon-library-png": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.link": {
+			"errorList": [
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"tpostman/ioBroker.ozw": {
+			"errorList": [
+				"E019",
+				"E120",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"Apollon77/ioBroker.homee": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E301"
+			],
+			"issue": 19,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"DJONvl/ioBroker.mysensors": {
+			"errorList": [
+				"E012",
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E125",
+				"E300",
+				"E402",
+				"E405",
+				"E407",
+				"E422",
+				"E426",
+				"E428"
+			],
+			"issue": 10,
+			"errorCount": 13,
+			"warningList": []
+		},
+		"konsorten/ioBroker.slack": {
+			"errorList": [
+				"E019",
+				"E115",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"tmikulski/ioBroker.VoiceAssistant": {
+			"errorList": [
+				"E005",
+				"E006",
+				"E016",
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"preout/ioBroker.widgettest": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"husky-koglhof/iobroker.occ": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E016",
+				"E103",
+				"E106",
+				"E114",
+				"E116",
+				"E117",
+				"E119",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 15,
+			"warningList": []
+		},
+		"xtobiasx/ioBroker.luftdaten": {
+			"errorList": [
+				"E019",
+				"E125",
+				"E201",
+				"E300",
+				"E402",
+				"E405",
+				"E407",
+				"E422",
+				"E426",
+				"E428"
+			],
+			"issue": 2,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.sony-bravia": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"instalator/ioBroker.mikrotik": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E201"
+			],
+			"issue": 21,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-canvas-gauges": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"kgerlich/iobroker.irobot": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"stefan-franke/ioBroker.alexa": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.openweathermap": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 11,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"klein0r/ioBroker.octoprint": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 6,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.ham-template": {
+			"errorList": [
+				"E115",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"soef/ioBroker.js2ftp": {
+			"errorList": [
+				"E019",
+				"E109",
+				"E114",
+				"E115",
+				"E118",
+				"E121",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"foxthefox/ioBroker.nest": {
+			"errorList": [
+				"E106",
+				"E112",
+				"E115",
+				"E120",
+				"E201"
+			],
+			"issue": 5,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"eXTreMe-1337/ioBroker.todoist": {
+			"errorList": [
+				"E112",
+				"E201"
+			],
+			"issue": 6,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"pyatovsky/ioBroker.vera": {
+			"errorList": [
+				"E016",
+				"E106",
+				"E114",
+				"E116",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.rickshaw": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E124"
+			],
+			"issue": 7,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"AttackStrawbery/ioBroker.sma-speedwire": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E115",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"ruhigundrelaxed/ioBroker.boblight": {
+			"errorList": [
+				"E019",
+				"E105",
+				"E106",
+				"E114",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 14,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-mfd-svg": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"rg-engineering/ioBroker.minmax": {
+			"errorList": [
+				"E115",
+				"E201"
+			],
+			"issue": 1,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.template-rest": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"instalator/ioBroker.starline": {
+			"errorList": [
+				"E106",
+				"E114"
+			],
+			"issue": 20,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"schmupu/ioBroker.devicectrl": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"kleinerDrache/iobroker.lacrosse": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E105",
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 13,
+			"warningList": []
+		},
+		"husky-koglhof/iobroker.rpi": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"frankjoke/ioBroker.statemachine": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E115",
+				"E120",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"jens-maus/ioBroker.unifi": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E121",
+				"E201",
+				"E301"
+			],
+			"issue": 13,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"schmupu/ioBroker.shelly": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 27,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"kirovilya/ioBroker.miio": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.modbus": {
+			"errorList": [
+				"E114"
+			],
+			"issue": 37,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ruhigundrelaxed/ioBroker.hyperion": {
+			"errorList": [
+				"E121",
+				"E125"
+			],
+			"issue": 24,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Causch/ioBroker.network": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Muskelkatermann/ioBroker.nuimo": {
+			"errorList": [
+				"E008",
+				"E012",
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"fungus75/ioBroker.hptoner": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"twonky4/ioBroker.spotify-premium": {
+			"errorList": [
+				"E106",
+				"E115"
+			],
+			"issue": 47,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"hobbyquaker/ioBroker.cul": {
+			"errorList": [
+				"E008",
+				"E009",
+				"E010",
+				"E011",
+				"E012",
+				"E013",
+				"E015",
+				"E017",
+				"E109",
+				"E114",
+				"E116",
+				"E117",
+				"E118",
+				"E119",
+				"E120",
+				"E121",
+				"E124",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 18,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-material-png": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ApolloSK/ioBroker.hmip_ap": {
+			"errorList": [
+				"E008",
+				"E019",
+				"E103",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"sucht3371/ioBroker.poolcontroller": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E201"
+			],
+			"issue": 4,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.opi": {
+			"errorList": [
+				"E019",
+				"E125",
+				"E405",
+				"E407",
+				"E426",
+				"E428"
+			],
+			"issue": 11,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"GermanBluefox/ioBroker.vis-circlemenu": {
+			"errorList": [
+				"E105",
+				"E112",
+				"E114",
+				"E120",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"utzhelmut/ioBroker.vu": {
+			"errorList": [
+				"E019",
+				"E118",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"steinwedel/ioBroker.smartercoffee": {
+			"errorList": [
+				"E012",
+				"E106",
+				"E114",
+				"E121",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"Favd/ioBroker.orvibo": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E114",
+				"E115",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis": {
+			"errorList": [
+				"E019",
+				"E116",
+				"E117"
+			],
+			"issue": 213,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-bars": {
+			"errorList": [
+				"E105",
+				"E114"
+			],
+			"issue": 4,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"rgwch/ioBroker.mystrom-wifi-switch": {
+			"errorList": [
+				"E300"
+			],
+			"issue": 17,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Nic0205/ioBroker.vis-menus": {
+			"errorList": [
+				"E105",
+				"E112",
+				"E114",
+				"E118",
+				"E120",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"preout/ioBroker.vis-gumbi": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"Eisbaeeer/ioBroker.plexconnect": {
+			"errorList": [
+				"E109",
+				"E114",
+				"E201",
+				"E405",
+				"E407",
+				"E426",
+				"E428"
+			],
+			"issue": 12,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"AlGu1/ioBroker.hombot": {
+			"errorList": [
+				"E106",
+				"E115",
+				"E125",
+				"E201"
+			],
+			"issue": 5,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"julien100/ioBroker.vis-julienwidgets": {
+			"errorList": [
+				"E019",
+				"E105",
+				"E112",
+				"E114",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"Homoran/iobroker.cubie": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E112",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"Pix---/ioBroker.rtv": {
+			"errorList": [
+				"E114",
+				"E120",
+				"E201",
+				"E301"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"swissglider/ioBroker.zeptrion": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 6,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"mrinc/ioBrokerAccessControl": {
+			"errorList": [
+				"E002",
+				"E004",
+				"E007",
+				"E008",
+				"E103",
+				"E114",
+				"E115",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.proxmox": {
+			"errorList": [
+				"E115"
+			],
+			"issue": 14,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"salambelgord/ioBroker-vis.splitsys": {
+			"errorList": [
+				"E002",
+				"E004",
+				"E007",
+				"E008",
+				"E019",
+				"E103",
+				"E105",
+				"E112",
+				"E114",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 12,
+			"warningList": []
+		},
+		"PArns/ioBroker.innogy-smarthome": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201"
+			],
+			"issue": 27,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.lcn": {
+			"errorList": [
+				"E115",
+				"E124",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"BuZZy1337/ioBroker.doorbird": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 7,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.pushsafer": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114"
+			],
+			"issue": 14,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.rfxcom": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"Pmant/ioBroker.botvac": {
+			"errorList": [
+				"E012",
+				"E106",
+				"E114",
+				"E115",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"soef/ioBroker.firetv": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 21,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"instalator/ioBroker.lgtv-rs": {
+			"errorList": [
+				"E105",
+				"E106",
+				"E114",
+				"E115"
+			],
+			"issue": 6,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"Stefan0875/iobroker.samsung2016": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"JoeDev002/ioBroker.powerdog": {
+			"errorList": [
+				"E019",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"Pix---/ioBroker.epson_stylus_px830": {
+			"errorList": [
+				"E016",
+				"E117",
+				"E201",
+				"E301"
+			],
+			"issue": 11,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.graphpic-messages": {
+			"errorList": [
+				"E012",
+				"E106",
+				"E114",
+				"E120",
+				"E121",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"tmikulski/ioBroker.sayitPL": {
+			"errorList": [
+				"E005",
+				"E006",
+				"E008",
+				"E019",
+				"E103",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"liedtkeu/ioBroker.datensammler": {
+			"errorList": [
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"soef/iobroker.js2fs": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E109",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 29,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"coyote1/ioBroker.repetier": {
+			"errorList": [
+				"E201",
+				"E301"
+			],
+			"issue": 4,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"instalator/ioBroker.benq": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115"
+			],
+			"issue": 13,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"steinwedel/ioBroker.mihome-air": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.phantomjs": {
+			"errorList": [
+				"E114"
+			],
+			"issue": 10,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Pmant/ioBroker.vis-justgage": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 19,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"CTJaeger/ioBroker.snmp": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E405",
+				"E407",
+				"E426",
+				"E428"
+			],
+			"issue": 21,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"Steiger04/ioBroker.milight-smart-light": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 15,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Tino3141/ioBroker.TestAdapter": {
+			"errorList": [
+				"E005",
+				"E006",
+				"E008",
+				"E019",
+				"E103",
+				"E111",
+				"E122",
+				"E123",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"Apollon77/ioBroker.daikin": {
+			"errorList": [
+				"E114",
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"instalator/ioBroker.synology": {
+			"errorList": [
+				"E114",
+				"E301"
+			],
+			"issue": 25,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Pix---/ioBroker.tvspielfilm": {
+			"errorList": [
+				"E114",
+				"E201"
+			],
+			"issue": 15,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.fullcalendar": {
+			"errorList": [
+				"E114",
+				"E115"
+			],
+			"issue": 11,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"instalator/ioBroker.foobar2000": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E114"
+			],
+			"issue": 13,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"kgerlich/iobroker.bundesliga": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"SpectreKr/iobroker.syslog": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E114",
+				"E201"
+			],
+			"issue": 7,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.deconz": {
+			"errorList": [
+				"E016",
+				"E116",
+				"E405",
+				"E407",
+				"E426",
+				"E428"
+			],
+			"issue": 26,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"soef/ioBroker.koubachi": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.pimatic": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E301"
+			],
+			"issue": 8,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.ham-wemo": {
+			"errorList": [
+				"E115"
+			],
+			"issue": 8,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"jensweigele/ioBroker.yahka": {
+			"errorList": [
+				"E115",
+				"E300"
+			],
+			"issue": 99,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Matten-Matten/ioBroker.enigma2": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E115",
+				"E124",
+				"E201",
+				"E301"
+			],
+			"issue": 15,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.ham-seasons": {
+			"errorList": [
+				"E115"
+			],
+			"issue": 6,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Apollon77/ioBroker.smartmeter": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114"
+			],
+			"issue": 19,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"kirovilya/ioBroker.otgw": {
+			"errorList": [
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 6,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"Apollon77/ioBroker.nut": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E201"
+			],
+			"issue": 13,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-addictive-flavour-png": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.noolite": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E301"
+			],
+			"issue": 4,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"forelleblau/ioBroker.solarlog_test": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Jey-Cee/ioBroker.adapter-studio": {
+			"errorList": [
+				"E016",
+				"E019",
+				"E106",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.material": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E124",
+				"E301"
+			],
+			"issue": 49,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"ruhr70/ioBroker.fritzbox": {
+			"errorList": [
+				"E106",
+				"E114"
+			],
+			"issue": 30,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"jachik/ioBroker.stocks": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E125",
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"UncleSamSwiss/ioBroker.squeezebox": {
+			"errorList": [
+				"E106",
+				"E109",
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 15,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"PArns/ioBroker.amazon-dash": {
+			"errorList": [
+				"E012",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 60,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"oyooyo/ioBroker.keyble": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 4,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.influxdb": {
+			"errorList": [
+				"E301"
+			],
+			"issue": 40,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Warsnake/ioBroker.tplink": {
+			"errorList": [
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"RPerkuhn/ioBroker.vw-carnet": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 6,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"husky-koglhof/iobroker.rules-engine": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E114",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.graphite": {
+			"errorList": [
+				"E008",
+				"E009",
+				"E010",
+				"E011",
+				"E012",
+				"E013",
+				"E015",
+				"E017",
+				"E110",
+				"E111",
+				"E114",
+				"E117",
+				"E118",
+				"E119",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 17,
+			"warningList": []
+		},
+		"ruhigundrelaxed/ioBroker.eibd": {
+			"errorList": [
+				"E019",
+				"E105",
+				"E106",
+				"E109",
+				"E114",
+				"E115",
+				"E119",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"mafof/ioBroker.mihome-humidifier": {
+			"errorList": [
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"BasGo/ioBroker.egigeozone": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201"
+			],
+			"issue": 6,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.terminal": {
+			"errorList": [
+				"E105",
+				"E106",
+				"E114",
+				"E115"
+			],
+			"issue": 5,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.mihome-vacuum": {
+			"errorList": [
+				"E106"
+			],
+			"issue": 69,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"oberstel/ioBroker.pjlink": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 7,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.ip-symcon": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"Motorpsycho123/ioBroker.highcharts": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"Homoran/iobroker.pine64": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"Eisbaeeer/ioBroker.vr200": {
+			"errorList": [
+				"E012",
+				"E106",
+				"E114",
+				"E115",
+				"E124",
+				"E201"
+			],
+			"issue": 7,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"veksoft/ioBroker.cubietruck": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"wuliwux/iobroker.resol": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E012",
+				"E019",
+				"E103",
+				"E106",
+				"E114",
+				"E115",
+				"E118",
+				"E120",
+				"E121",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 16,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.telnet": {
+			"errorList": [
+				"E008",
+				"E009",
+				"E010",
+				"E011",
+				"E012",
+				"E013",
+				"E015",
+				"E017",
+				"E109",
+				"E110"
+			],
+			"issue": 1,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"MiSchroe/ioBroker.klf200": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 17,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.mqtt": {
+			"errorList": [
+				"E201",
+				"E301"
+			],
+			"issue": 43,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-lcars": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201"
+			],
+			"issue": 10,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.icons-material-svg": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"SebastianSchultz/ioBroker.lgtv11": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 10,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"kais0r/ioBroker.kmcanio2": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"milo1987/ioBroker.espadapterserver": {
+			"errorList": [
+				"E016",
+				"E019",
+				"E106",
+				"E111",
+				"E116",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"ruhr70/ioBroker.circuit": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-metro": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201"
+			],
+			"issue": 16,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"AlCalzone/ioBroker.philips-tv": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 13,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"sthufnagl/ioBroker.robonect": {
+			"errorList": [
+				"E014",
+				"E019",
+				"E106",
+				"E114",
+				"E115",
+				"E118",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 5,
+			"errorCount": 10,
+			"warningList": []
+		},
+		"oKliw/ioBroker.irrigation": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"sparkie79/ioBroker.eastron": {
+			"errorList": [
+				"E012",
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"husky-koglhof/ioBroker.hmm": {
+			"errorList": [
+				"E016",
+				"E109",
+				"E112",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 17,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"weezly/ioBroker.rpi-rf433": {
+			"errorList": [
+				"E114",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"foxthefox/ioBroker.emoncms": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"snador1977/ioBroker.nightingale": {
+			"errorList": [
+				"E019",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.swagger": {
+			"errorList": [
+				"E016",
+				"E106",
+				"E114",
+				"E116",
+				"E201",
+				"E301"
+			],
+			"issue": 4,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"arteck/iobroker.fullybrowser": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E201"
+			],
+			"issue": 11,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"Pix---/ioBroker.homepilot": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 13,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"Schorsch99/ioBroker.arcam": {
+			"errorList": [
+				"E014",
+				"E019",
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"dna909/iobroker.proxmox": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"AlCalzone/ioBroker.ble": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 44,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"kgerlich/iobroker.surepetcareio": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E103",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"dna909/ioBroker.homeconnect": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"franman1/ioBroker": {
+			"errorList": [
+				"E002",
+				"E004",
+				"E007",
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E109",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"misanorot/ioBroker.viessmann": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 32,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"treborbay/ioBroker.sienna": {
+			"errorList": [
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"SteMaker/ioBroker.vdr": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E111",
+				"E114",
+				"E118",
+				"E201",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"anarchocactus/ioBroker.solvis": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E114",
+				"E115",
+				"E118",
+				"E120",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 9,
+			"warningList": []
+		},
+		"frankjoke/ioBroker.systeminfo": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"sebilm/ioBroker.nibeuplink": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-hqwidgets": {
+			"errorList": [
+				"E114",
+				"E201"
+			],
+			"issue": 13,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"hometm/ioBroker.vcard": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 6,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ruhigundrelaxed/ioBroker.hyperion_client": {
+			"errorList": [
+				"E008",
+				"E019",
+				"E115",
+				"E118",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"julien100/ioBroker.firebase": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E114",
+				"E115",
+				"E121",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"bratello/iobroker.gofarmtech": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"instalator/ioBroker.kodi": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201"
+			],
+			"issue": 27,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"AWhiteKnight/ioBroker.moma": {
+			"errorList": [
+				"E008",
+				"E019",
+				"E201"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"MeisterTR/ioBroker.mihome-lamp": {
+			"errorList": [
+				"E106",
+				"E201"
+			],
+			"issue": 24,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.iot": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 30,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"Eisbaeeer/ioBroker.piface": {
+			"errorList": [
+				"E109",
+				"E114",
+				"E201",
+				"E405",
+				"E407",
+				"E426",
+				"E428"
+			],
+			"issue": 18,
+			"errorCount": 7,
+			"warningList": []
+		},
+		"SwedishChef1/ioBroker.bosesoundtouch": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 29,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"joergzdarsky/ioBroker.adaptertemplate": {
+			"errorList": [
+				"E019",
+				"E106",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 6,
+			"warningList": []
+		},
+		"konsorten/ioBroker.timeular": {
+			"errorList": [
+				"E106",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.discovergy": {
+			"errorList": [
+				"E115",
+				"E201"
+			],
+			"issue": 18,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"soef/ioBroker.hid": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E115",
+				"E201"
+			],
+			"issue": 12,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"instalator/ioBroker.pandora": {
+			"errorList": [
+				"E012",
+				"E112",
+				"E114",
+				"E115",
+				"E121",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"issue": 2,
+			"errorCount": 8,
+			"warningList": []
+		},
+		"MeisterTR/ioBroker.kress": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 3,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"frankjoke/ioBroker.bmw": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E301"
+			],
+			"issue": 8,
+			"errorCount": 4,
+			"warningList": []
+		},
+		"ioBroker/ioBroker.vis-timeandweather": {
+			"errorList": [
+				"E105",
+				"E114",
+				"E201"
+			],
+			"issue": 6,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"iobroker-community-adapters/ioBroker.vis-material": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201",
+				"E405",
+				"E407"
+			],
+			"issue": 7,
+			"errorCount": 5,
+			"warningList": []
+		},
+		"Zefau/ioBroker.nuki2": {
+			"errorList": [
+				"E201"
+			],
+			"issue": 1,
+			"errorCount": 1,
+			"warningList": []
+		},
+		"dbechtel89/iobroker.alexa-adapter": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E106",
+				"E115",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 11,
+			"warningList": []
+		},
+		"VictorSvetogor/ioBroker.airpurifier": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"Taragorm/ioBroker.evohome": {
+			"errorList": [
+				"E115",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"micro7/ioBroker.lirc": {
+			"errorList": [
+				"E106",
+				"E124",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"warningList": []
+		},
+		"Bettman66/ioBroker.doorpi": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"bluerai/iobroker.mobile-alerts": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E012",
+				"E103",
+				"E114",
+				"E115",
+				"E121",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 12,
+			"warningList": []
+		},
+		"SchumyHao/ioBroker.miio": {
+			"errorList": [
+				"E201",
+				"E301"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"warningList": []
+		},
+		"schmupu/ioBroker.pollenflug": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 1,
+			"errorCount": 2
+		},
+		"Omega236/ioBroker.virtualpowermeter": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 1,
+			"errorCount": 2
+		},
+		"paveltsytovich/ioBroker.noolitef": {
+			"errorList": [
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 1,
+			"errorCount": 2
+		},
+		"thewhobox/ioBroker.emby": {
+			"errorList": [
+				"E106",
+				"E116",
+				"E117",
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 1,
+			"errorCount": 5
+		}
 	}
 }
