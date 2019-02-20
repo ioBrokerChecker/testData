@@ -110,16 +110,16 @@
 		"nuFFeX/iobroker-rpi-docker",
 		"chefkoch009/iobroker",
 		"ioBroker/testing",
+		"buanet/iobroker-vis-templates",
 		"AlCalzone/ioBroker.javascript-editor",
 		"cernst1980/iobroker.hue_scenes",
 		"jens-maus/hm-iobroker",
+		"ioBroker/iobroker.net",
 		"iobroker-community-adapters/ioBroker.Resol-VBUS"
 	],
 	"noIoPackage": [
-		"ioBroker/iobroker.net",
 		"delfser/ioBroker.poweralarm",
 		"Tino3141/ioBroker.gardenabridge",
-		"buanet/iobroker-vis-templates",
 		"BasGo/ioBroker.vis-simple-widgets",
 		"lbarth/ioBroker.Touchline",
 		"suetti/iobroker.nuki-smartlock",
