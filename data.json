@@ -259,22 +259,6 @@
 		}
 	},
 	"checkError": {
-		"ioBroker/ioBroker.legacy": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E116",
-				"E117",
-				"E119",
-				"E120",
-				"E300"
-			],
-			"issue": 3,
-			"errorCount": 7,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-03T15:35:31Z"
-		},
 		"Apollon77/ioBroker.smartvisu": {
 			"errorList": [
 				"E115",
@@ -286,20 +270,6 @@
 			"warningList": [],
 			"status": "open",
 			"createdDate": "2019-02-03T15:23:29Z"
-		},
-		"filippovsky/ioBroker.megadjt": {
-			"errorList": [
-				"E106",
-				"E114",
-				"E125",
-				"E201",
-				"E300"
-			],
-			"issue": 2,
-			"errorCount": 5,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-03T17:44:23Z"
 		},
 		"ioBroker/ioBroker.icons-open-icon-library-png": {
 			"errorList": [
@@ -313,20 +283,6 @@
 			"warningList": [],
 			"status": "open",
 			"createdDate": "2019-02-03T15:23:36Z"
-		},
-		"ioBroker/ioBroker.material": {
-			"errorList": [
-				"E114",
-				"E116",
-				"E117",
-				"E124",
-				"E301"
-			],
-			"issue": 49,
-			"errorCount": 5,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-01T15:08:10Z"
 		},
 		"husky-koglhof/iobroker.rules-engine": {
 			"errorList": [
@@ -365,56 +321,6 @@
 			"warningList": [],
 			"status": "open",
 			"createdDate": "2019-02-03T11:38:27Z"
-		},
-		"XKEYFA/ioBroker.ebusd": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E020",
-				"E019",
-				"E103",
-				"E114",
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 4,
-			"errorCount": 8,
-			"status": "open"
-		},
-		"arteck/ioBroker.fullybrowser": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E019",
-				"E020",
-				"E103",
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 11,
-			"errorCount": 7,
-			"status": "closed"
-		},
-		"bluerai/ioBroker.mobile-alerts": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E020",
-				"E012",
-				"E019",
-				"E103",
-				"E114",
-				"E115",
-				"E201",
-				"E300",
-				"E500"
-			],
-			"warningList": [],
-			"issue": 1,
-			"errorCount": 11,
-			"status": "open"
 		}
 	},
 	"checkError2": {
@@ -1915,7 +1821,7 @@
 			"issue": 3,
 			"errorCount": 8,
 			"status": "open"
-		},		
+		},
 		"RPerkuhn/ioBroker.threema-gw": {
 			"errorList": [
 				"E201",
@@ -5227,6 +5133,82 @@
 			"warningList": [],
 			"issue": 1,
 			"errorCount": 2,
+			"status": "open"
+		},
+		"ioBroker/ioBroker.legacy": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E116",
+				"E117",
+				"E119",
+				"E120",
+				"E300"
+			],
+			"issue": 3,
+			"errorCount": 7,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-03T15:35:31Z"
+		},
+		"filippovsky/ioBroker.megadjt": {
+			"errorList": [
+				"E106",
+				"E114",
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 2,
+			"errorCount": 4,
+			"status": "open"
+		},
+		"ioBroker/ioBroker.material": {
+			"errorList": [
+				"E114",
+				"E116",
+				"E117",
+				"E124",
+				"E301"
+			],
+			"issue": 49,
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:08:10Z"
+		},
+		"XKEYFA/ioBroker.ebusd": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 4,
+			"errorCount": 3,
+			"status": "open"
+		},
+		"arteck/ioBroker.fullybrowser": {
+			"errorList": [
+				"E201"
+			],
+			"warningList": [],
+			"issue": 11,
+			"errorCount": 1,
+			"status": "closed"
+		},
+		"bluerai/ioBroker.mobile-alerts": {
+			"errorList": [
+				"E012",
+				"E114",
+				"E115",
+				"E201",
+				"E300",
+				"E500"
+			],
+			"warningList": [],
+			"issue": 1,
+			"errorCount": 6,
 			"status": "open"
 		}
 	}
