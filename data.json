@@ -256,6 +256,32 @@
 		"hobbyquaker/ioBroker.highcharts": {
 			"issue": 1,
 			"errorCount": 1
+		},
+		"ioBroker/ioBroker.knx": {
+			"errorList": [
+				"E116",
+				"E117",
+				"E121",
+				"E124",
+				"E301"
+			],
+			"issue": 51,
+			"errorCount": 5,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-08T09:38:59Z"
+		},
+		"ioBroker/ioBroker.lcn": {
+			"errorList": [
+				"E115",
+				"E124",
+				"E201",
+				"E300"
+			],
+			"warningList": [],
+			"issue": 3,
+			"errorCount": 4,
+			"status": "open"
 		}
 	},
 	"checkError": {
@@ -472,21 +498,7 @@
 			"warningList": [],
 			"status": "open",
 			"createdDate": "2019-02-08T08:55:19Z"
-		},
-		"ioBroker/ioBroker.knx": {
-			"errorList": [
-				"E116",
-				"E117",
-				"E121",
-				"E124",
-				"E301"
-			],
-			"issue": 51,
-			"errorCount": 5,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-08T09:38:59Z"
-		},
+		},		
 		"ioBroker/ioBroker.text2command": {
 			"errorList": [
 				"E114"
@@ -3482,18 +3494,6 @@
 			"warningList": [],
 			"status": "open",
 			"createdDate": "2019-02-03T16:13:44Z"
-		},
-		"ioBroker/ioBroker.lcn": {
-			"errorList": [
-				"E115",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 3,
-			"errorCount": 4,
-			"status": "open"
 		},
 		"BuZZy1337/ioBroker.doorbird": {
 			"errorList": [
