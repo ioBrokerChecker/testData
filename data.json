@@ -119,9 +119,52 @@
 		"dodojie/iobroker_docker_config",
 		"dodojie/iobroker_docker"
 	],
-	"noIoPackage": [		
+	"noIoPackage": [
+		"iobroker-community-adapters/ioBroker.mysensors-2-community",
+		"iobroker-community-adapters/ioBroker.firetv-community",
+		"iobroker-community-adapters/ioBroker.koubachi-community",
+		"iobroker-community-adapters/ioBroker.cec-community",
+		"dmm1/iobroker.widgets.dmm",
+		"thewhobox/ioBroker.watchdog",
+		"delfser/ioBroker.poweralarm",
+		"Tino3141/ioBroker.gardenabridge",
+		"BasGo/ioBroker.vis-simple-widgets",
+		"lbarth/ioBroker.Touchline",
+		"suetti/iobroker.nuki-smartlock",
+		"LM-ku/ioBroker.solar_inverter",
+		"Bjoern3003/ioBroker.custom_widgets",
+		"schmupu/iobroker-devicecontrol",
+		"AWhiteKnight/ioBroker.moma-ui",
+		"AbdulAlBane/ioBroker.multiroom",
+		"Jens1809/ioBroker.nello",
+		"cruunnerr/ioBroker.pioneer",
+		"itsieber/ioBroker.ciCHWeather",
+		"Garfonso/ioBroker.cec2",
+		"multi-man2000/ioBroker.midea",
+		"doebs/ioBroker.luftdaten_info",
+		"andiling/ioBroker.heliotherm",
+		"aje89/ioBroker.toshibatvremote",
+		"Smoker2604/iobroker.repetierserver",
+		"dfrozen/ioBroker.tplink",
+		"baslm-ag/ioBroker.powerCounter",
+		"vr6syncro/iobroker.rfid",
+		"SpectreKr/iobroker.upnotifer",
+		"khst60/iobroker.denon",
+		"slidynia/iobroker.ebusd",
+		"ioBroker/ioBroker.obd2",
+		"Goersch/ioBroker.GNChart",
+		"msapogov/iobroker.squeezenode",
+		"soef/iobroker.fire-tv",
+		"VictorSvetogor/ioBroker.iHealth",
+		"DoerrSt/ioBroker.pushalot",
+		"LDSign/ioBroker.hue-bridge-emulator",
+		"ioBroker/ioBroker.eventlist",
+		"ioBroker/ioBroker.growl",
+		"sthufnagl/iobroker.spark"
 	],
-	"checkOk": [		
+	"checkOk": [
+		"maxtox/ioBroker.intesishome",
+		"ioBroker/ioBroker.admin"
 	],
 	"checkErrorOld": {
 		"kennerblick/ioBroker.gigablue": {
@@ -5079,5 +5122,138 @@
 			"status": "open"
 		}
 	},
-	"checkError2": {}
+	"checkError2": {
+		"iobroker-community-adapters/ioBroker.enocean": {
+			"errorList": [
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 36,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:07Z"
+		},
+		"kneisel/ioBroker.vis-jqui-mfd": {
+			"errorList": [
+				"E021",
+				"E019",
+				"E114",
+				"E300",
+				"E405",
+				"E407",
+				"E426",
+				"E428",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 1,
+			"errorCount": 10,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:08Z"
+		},
+		"ioBroker/ioBroker.hm-rega": {
+			"errorList": [
+				"E021",
+				"E130",
+				"E301"
+			],
+			"warningList": [],
+			"issue": 58,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:12Z"
+		},
+		"ioBroker/ioBroker.history": {
+			"errorList": [
+				"E021",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 43,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:12Z"
+		},
+		"unltdnetworx/ioBroker.energymanager": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 7,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:18Z"
+		},
+		"unltdnetworx/ioBroker.stiebel-isg": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 8,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:18Z"
+		},
+		"BuZZy1337/ioBroker.roadtraffic": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 5,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:18Z"
+		},
+		"mcdhrts/ioBroker.asuswrt": {
+			"errorList": [
+				"E140",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 7,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:25Z"
+		},
+		"t4qjXH8N/ioBroker.wiffi-wz": {
+			"errorList": [
+				"E130"
+			],
+			"warningList": [],
+			"issue": 11,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:25Z"
+		},
+		"foxthefox/ioBroker.statistics": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 18,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:26Z"
+		},
+		"klein0r/ioBroker.luftdaten": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 12,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-11T11:30:32Z"
+		}
+	}
 }
