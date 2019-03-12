@@ -5582,6 +5582,133 @@
 			"errorCount": 2,
 			"status": "open",
 			"createdDate": "2019-03-12T15:46:53Z"
+		},
+		"iobroker-community-adapters/ioBroker.wifilight-community": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201",
+				"E603",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 15,
+			"errorCount": 6,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:05Z"
+		},
+		"kneisel/ioBroker.vis-jqui-dimmer": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E300"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:06Z"
+		},
+		"AlCalzone/ioBroker.tradfri": {
+			"errorList": [
+				"E130",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 78,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:06Z"
+		},
+		"iobroker-community-adapters/ioBroker.hid-community": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201",
+				"E301",
+				"E603",
+				"E604",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 6,
+			"errorCount": 7,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:11Z"
+		},
+		"iobroker-community-adapters/ioBroker.email": {
+			"errorList": [
+				"E021",
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 10,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:12Z"
+		},
+		"iobroker-community-adapters/ioBroker.ical": {
+			"errorList": [
+				"E019",
+				"E130",
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 99,
+			"errorCount": 5,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:17Z"
+		},
+		"iobroker-community-adapters/ioBroker.fronius": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 25,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:20Z"
+		},
+		"foxriver76/ioBroker.xbox": {
+			"errorList": [
+				"E130",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 11,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:20Z"
+		},
+		"simatec/ioBroker.backitup": {
+			"errorList": [
+				"E130",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 124,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:54:20Z"
 		}
 	}
 }
