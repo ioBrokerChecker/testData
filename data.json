@@ -5254,6 +5254,83 @@
 			"errorCount": 2,
 			"status": "open",
 			"createdDate": "2019-03-11T11:30:32Z"
+		},
+		"ioBroker/ioBroker.node-red": {
+			"errorList": [
+				"E301",
+				"E605"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 53,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:20:08Z"
+		},
+		"ioBroker/ioBroker.maxcube": {
+			"errorList": [
+				"E021",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"				
+			],
+			"issue": 13,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:20:10Z"
+		},		
+		"Pmant/ioBroker.harmony": {
+			"errorList": [
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 54,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:20:17Z"
+		},
+		"foxriver76/ioBroker.denon": {
+			"errorList": [
+				"E130",
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 42,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-12T15:20:19Z"
+		},
+		"angelnu/ioBroker.chromecast": {
+			"errorList": [
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 54,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:20:25Z"
+		},		
+		"t4qjXH8N/ioBroker.google-sharedlocations": {
+			"errorList": [
+				"E130"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 24,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T15:20:26Z"
 		}
 	}
 }
