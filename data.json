@@ -5949,6 +5949,128 @@
 			"errorCount": 2,
 			"status": "open",
 			"createdDate": "2019-03-12T16:05:21Z"
+		},
+		"iobroker-community-adapters/ioBroker.wm-bus-community": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E130",
+				"E201",
+				"E604",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 10,
+			"errorCount": 6,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:30Z"
+		},
+		"ioBroker/ioBroker.sql": {
+			"errorList": [
+				"E021",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 73,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:31Z"
+		},
+		"ioBroker/ioBroker.sonoff": {
+			"errorList": [
+				"E021"
+			],
+			"warningList": [],
+			"issue": 86,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:31Z"
+		},
+		"AlCalzone/ioBroker.ble": {
+			"errorList": [
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 49,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:38Z"
+		},
+		"iobroker-community-adapters/ioBroker.opentherm": {
+			"errorList": [
+				"E140",
+				"E603",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 15,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:38Z"
+		},
+		"ioBroker/ioBroker.cloud": {
+			"errorList": [
+				"E021",
+				"E604",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 121,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:39Z"
+		},
+		"tinebee94/iobroker.vis-testv": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E020",
+				"E019",
+				"E103",
+				"E114",
+				"E125",
+				"E201",
+				"E300"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 9,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:47Z"
+		},
+		"SebastianSchultz/ioBroker.enet": {
+			"errorList": [
+				"E140",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 11,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:49Z"
+		},
+		"misanorot/ioBroker.viessmann": {
+			"errorList": [
+				"E140"
+			],
+			"warningList": [],
+			"issue": 36,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T16:10:49Z"
 		}
 	}
 }
