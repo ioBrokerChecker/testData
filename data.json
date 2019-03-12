@@ -5827,6 +5827,128 @@
 			"errorCount": 3,
 			"status": "open",
 			"createdDate": "2019-03-12T15:59:45Z"
+		},
+		"iobroker-community-adapters/ioBroker.yamaha-community": {
+			"errorList": [
+				"E019",
+				"E109",
+				"E114",
+				"E201",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 4,
+			"errorCount": 6,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:05Z"
+		},
+		"kgerlich/iobroker.alphaadv": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E020",
+				"E103",
+				"E106",
+				"E140",
+				"E201",
+				"E300",
+				"E603",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 10,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:07Z"
+		},
+		"ioBroker/ioBroker.hm-rpc": {
+			"errorList": [
+				"E130"
+			],
+			"warningList": [],
+			"issue": 161,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:08Z"
+		},
+		"ioBroker/ioBroker.artnet": {
+			"errorList": [
+				"E021",
+				"E604",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 7,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:14Z"
+		},
+		"forelleblau/ioBroker.comfoair": {
+			"errorList": [
+				"E605"
+			],
+			"warningList": [],
+			"issue": 5,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:11Z"
+		},
+		"Pix---/ioBroker.feiertage": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 39,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:12Z"
+		},
+		"SebastianSchultz/ioBroker.lgtv": {
+			"errorList": [
+				"E130"
+			],
+			"warningList": [],
+			"issue": 35,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:24Z"
+		},
+		"frankjoke/ioBroker.radar": {
+			"errorList": [
+				"E130",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 37,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:20Z"
+		},
+		"schmupu/ioBroker.sia": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 6,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T16:05:21Z"
 		}
 	}
 }
