@@ -165,7 +165,9 @@
 	"checkOk": [
 		"maxtox/ioBroker.intesishome",
 		"ioBroker/ioBroker.admin",
-		"ioBroker/ioBroker.javascript"
+		"ioBroker/ioBroker.javascript",
+		"t4qjXH8N/ioBroker.gardena",
+		"t4qjXH8N/ioBroker.lirc"
 	],
 	"checkErrorOld": {
 		"kennerblick/ioBroker.gigablue": {
@@ -5445,6 +5447,141 @@
 			"errorCount": 1,
 			"status": "open",
 			"createdDate": "2019-03-12T15:40:45Z"
+		},
+		"Taragorm/ioBroker.vis-taragorm": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E300"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:29Z"
+		},
+		"iobroker-community-adapters/ioBroker.hmip": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 51,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:30Z"
+		},
+		"iobroker-community-adapters/ioBroker.mihome-plug": {
+			"errorList": [
+				"E604",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 5,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:36Z"
+		},
+		"iobroker-community-adapters/ioBroker.find-my-iphone-community": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201",
+				"E603",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 10,
+			"errorCount": 6,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:37Z"
+		},
+		"iobroker-community-adapters/ioBroker.lightify-community": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 8,
+			"errorCount": 5,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:37Z"
+		},
+		"volkerrichert/ioBroker.oppoplayer": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 4,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:43Z"
+		},
+		"iobroker-community-adapters/ioBroker.landroid": {
+			"errorList": [
+				"E140",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 19,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:46Z"
+		},
+		"iobroker-community-adapters/ioBroker.sony-bravia": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 15,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:44Z"
+		},
+		"PericNikola/ioBroker.tinytx4": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 2,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:51Z"
+		},
+		"JoJ123/ioBroker.mihome-airpurifier": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 17,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:46:53Z"
 		}
 	}
 }
