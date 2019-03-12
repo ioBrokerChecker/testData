@@ -5709,6 +5709,124 @@
 			"errorCount": 3,
 			"status": "open",
 			"createdDate": "2019-03-12T15:54:20Z"
+		},
+		"iobroker-community-adapters/ioBroker.js2fs-community": {
+			"errorList": [
+				"E019",
+				"E109",
+				"E114",
+				"E130",
+				"E201",
+				"E603",
+				"E604",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 10,
+			"errorCount": 8,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:30Z"
+		},
+		"foxriver76/ioBroker.bring": {
+			"errorList": [
+				"E301",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 9,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:31Z"
+		},
+		"ioBroker/ioBroker.yr": {
+			"errorList": [
+				"E021",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 20,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:33Z"
+		},
+		"ioBroker/ioBroker.ekey": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 6,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:37Z"
+		},
+		"ioBroker/ioBroker.dwd": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 27,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:37Z"
+		},
+		"ioBroker/ioBroker.mihome": {
+			"errorList": [
+				"E130",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 70,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:38Z"
+		},
+		"schmupu/ioBroker.contactid": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 5,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:44Z"
+		},
+		"iobroker-community-adapters/ioBroker.oilfox": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 16,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:45Z"
+		},
+		"iobroker-community-adapters/ioBroker.panasonic-viera": {
+			"errorList": [
+				"E140",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 16,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:59:45Z"
 		}
 	}
 }
