@@ -164,7 +164,8 @@
 	],
 	"checkOk": [
 		"maxtox/ioBroker.intesishome",
-		"ioBroker/ioBroker.admin"
+		"ioBroker/ioBroker.admin",
+		"ioBroker/ioBroker.javascript"
 	],
 	"checkErrorOld": {
 		"kennerblick/ioBroker.gigablue": {
@@ -5275,13 +5276,13 @@
 				"E701"
 			],
 			"warningList": [
-				"W113"				
+				"W113"
 			],
 			"issue": 13,
 			"errorCount": 3,
 			"status": "open",
 			"createdDate": "2019-03-12T15:20:10Z"
-		},		
+		},
 		"Pmant/ioBroker.harmony": {
 			"errorList": [
 				"E301",
@@ -5318,7 +5319,7 @@
 			"errorCount": 3,
 			"status": "open",
 			"createdDate": "2019-03-12T15:20:25Z"
-		},		
+		},
 		"t4qjXH8N/ioBroker.google-sharedlocations": {
 			"errorList": [
 				"E130"
@@ -5331,6 +5332,119 @@
 			"errorCount": 1,
 			"status": "open",
 			"createdDate": "2019-03-12T15:20:26Z"
+		},
+		"ioBroker/ioBroker.sayit": {
+			"errorList": [
+				"E140",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 72,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:21Z"
+		},
+		"iobroker-community-adapters/ioBroker.owntracks": {
+			"errorList": [
+				"E301",
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 17,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:20Z"
+		},
+		"schmupu/ioBroker.ring": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 6,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:21Z"
+		},
+		"iobroker-community-adapters/ioBroker.miele-community": {
+			"errorList": [
+				"E019",
+				"E114",
+				"E201",
+				"E603",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 8,
+			"errorCount": 6,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:29Z"
+		},
+		"ioBroker/ioBroker.influxdb": {
+			"errorList": [
+				"E021",
+				"E140",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 44,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:30Z"
+		},
+		"nisiode/ioBroker.iogo": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 13,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:38Z"
+		},
+		"foxriver76/ioBroker.sonnen": {
+			"errorList": [
+				"E605",
+				"E701"
+			],
+			"warningList": [],
+			"issue": 12,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:39Z"
+		},
+		"rg-engineering/ioBroker.sbfspot": {
+			"errorList": [
+				"E130",
+				"E140"
+			],
+			"warningList": [],
+			"issue": 13,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:43Z"
+		},
+		"SebastianSchultz/ioBroker.hp-ilo": {
+			"errorList": [
+				"E130"
+			],
+			"warningList": [],
+			"issue": 11,
+			"errorCount": 1,
+			"status": "open",
+			"createdDate": "2019-03-12T15:40:45Z"
 		}
 	}
 }
