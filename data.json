@@ -120,7 +120,50 @@
 		"dodojie/iobroker_docker"
 	],
 	"noIoPackage": [
-		"dmm1/iobroker.widgets.dmm"
+		"dmm1/iobroker.widgets.dmm",
+		"ZHonry/docker-iobroker",
+		"mufflon11/iobroker",
+		"LightVolk/awersome-ioBroker-scripts",
+		"samjaseu/iobroker-docker",
+		"Samuel-0-0/ioBroker-tools-for-windows",
+		"iobroker-community-adapters/ioBroker.koubachi-community",
+		"iobroker-community-adapters/ioBroker.mysensors-2-community",
+		"thewhobox/ioBroker.watchdog",
+		"delfser/ioBroker.poweralarm",
+		"BasGo/ioBroker.vis-simple-widgets",
+		"lbarth/ioBroker.Touchline",
+		"Tino3141/ioBroker.gardenabridge",
+		"suetti/iobroker.nuki-smartlock",
+		"Jens1809/ioBroker.nello",
+		"AWhiteKnight/ioBroker.moma-ui",
+		"Bjoern3003/ioBroker.custom_widgets",
+		"LM-ku/ioBroker.solar_inverter",
+		"AbdulAlBane/ioBroker.multiroom",
+		"multi-man2000/ioBroker.midea",
+		"itsieber/ioBroker.ciCHWeather",
+		"cruunnerr/ioBroker.pioneer",
+		"Garfonso/ioBroker.cec2",
+		"schmupu/iobroker-devicecontrol",
+		"baslm-ag/ioBroker.powerCounter",
+		"Smoker2604/iobroker.repetierserver",
+		"dfrozen/ioBroker.tplink",
+		"aje89/ioBroker.toshibatvremote",
+		"andiling/ioBroker.heliotherm",
+		"slidynia/iobroker.ebusd",
+		"doebs/ioBroker.luftdaten_info",
+		"SpectreKr/iobroker.upnotifer",
+		"vr6syncro/iobroker.rfid",
+		"soef/iobroker.fire-tv",
+		"khst60/iobroker.denon",
+		"msapogov/iobroker.squeezenode",
+		"DoerrSt/ioBroker.pushalot",
+		"LDSign/ioBroker.hue-bridge-emulator",
+		"ioBroker/ioBroker.obd2",
+		"Goersch/ioBroker.GNChart",
+		"VictorSvetogor/ioBroker.iHealth",
+		"ioBroker/ioBroker.eventlist",
+		"sthufnagl/iobroker.spark",
+		"ioBroker/ioBroker.growl"
 	],
 	"checkOk": [
 		"maxtox/ioBroker.intesishome",
@@ -166,7 +209,68 @@
 		}
 	},
 	"checkError": {
-		
+		"kgerlich/iobroker.opensesame": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E020",
+				"E103",
+				"E106",
+				"E140",
+				"E201",
+				"E300",
+				"E801",
+				"E802",
+				"E603",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 12,
+			"status": "open",
+			"createdDate": "2019-03-28T12:30:38Z"
+		},
+		"Andymann/VideoMatrix_ioBroker": {
+			"errorList": [
+				"E002",
+				"E004",
+				"E007",
+				"E020",
+				"E019",
+				"E103",
+				"E125",
+				"E201",
+				"E300",
+				"E802",
+				"E603",
+				"E604"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 12,
+			"status": "open",
+			"createdDate": "2019-03-28T12:30:38Z"
+		},
+		"Andymann/ioBroker.videomatrix": {
+			"errorList": [
+				"E201",
+				"E300",
+				"E801",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-28T12:30:39Z"
+		}
 	},
 	"checkError2": {
 		"Apollon77/ioBroker.smartvisu": {
