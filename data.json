@@ -270,6 +270,68 @@
 			"errorCount": 4,
 			"status": "open",
 			"createdDate": "2019-03-28T12:30:39Z"
+		},
+		"TA2k/ioBroker.gruenbeck": {
+			"errorList": [
+				"E201",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-28T12:36:01Z"
+		},
+		"Taragorm/ioBroker.vistaragorm": {
+			"errorList": [
+				"E114",
+				"E201",
+				"E300",
+				"E801",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 2,
+			"errorCount": 5,
+			"status": "open",
+			"createdDate": "2019-03-28T12:36:02Z"
+		},
+		"iobroker-community-adapters/ioBroker.weatherunderground": {
+			"errorList": [
+				"E019",
+				"E140",
+				"E405",
+				"E407",
+				"E426",
+				"E428",
+				"E802"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 37,
+			"errorCount": 7,
+			"status": "open",
+			"createdDate": "2019-03-28T12:36:03Z"
+		},
+		"bondrogeen/ioBroker.firebase": {
+			"errorList": [
+				"E201",
+				"E300",
+				"E801",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-28T12:36:10Z"
 		}
 	},
 	"checkError2": {
