@@ -332,6 +332,67 @@
 			"errorCount": 4,
 			"status": "open",
 			"createdDate": "2019-03-28T12:36:10Z"
+		},
+		"hacki11/ioBroker.valloxmv": {
+			"errorList": [
+				"E201",
+				"E300",
+				"E801",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-28T12:41:29Z"
+		},
+		"ISFH/ioBroker.wmbus": {
+			"errorList": [
+				"E016",
+				"E019",
+				"E116",
+				"E201",
+				"E300",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 6,
+			"status": "open",
+			"createdDate": "2019-03-28T12:41:29Z"
+		},
+		"Omega236/ioBroker.history-statistics": {
+			"errorList": [
+				"E301",
+				"E802"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 2,
+			"status": "open",
+			"createdDate": "2019-03-28T12:41:30Z"
+		},
+		"iobroker-community-adapters/ioBroker.enocean": {
+			"errorList": [
+				"E801",
+				"E802",
+				"E605",
+				"E701"
+			],
+			"warningList": [
+				"W113",
+				"W400"
+			],
+			"issue": 37,
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-03-28T12:41:37Z"
 		}
 	},
 	"checkError2": {
