@@ -196,6 +196,7 @@
 		"iobroker-community-adapters/ioBroker.mysensors-2-community"
 	],
 	"checkOk": [
+		"sbormann/ioBroker.iqontrol",
 		"unltdnetworx/ioBroker.snips",
 		"hacki11/ioBroker.valloxmv",
 		"unltdnetworx/ioBroker.energymanager",
@@ -3371,23 +3372,18 @@
 		},
 		"Jey-Cee/ioBroker.primelab": {
 			"errorList": [
-				"E003",
-				"E004",
-				"E019",
-				"E020",
-				"E103",
 				"E201",
-				"E300",
+				"E301",
 				"E801",
 				"E802"
 			],
 			"warningList": [
-				"W113",
-				"W400"
+				"W113"
 			],
 			"issue": 3,
-			"errorCount": 9,
-			"status": "open"
+			"errorCount": 4,
+			"status": "open",
+			"createdDate": "2019-02-03T16:15:59Z"
 		},
 		"RPerkuhn/ioBroker.threema-gw": {
 			"errorList": [
@@ -8329,6 +8325,36 @@
 			"errorCount": 1,
 			"status": "open",
 			"createdDate": "2019-04-30T09:27:43Z"
+		},
+		"MiSchroe/ioBroker.klf200": {
+			"errorList": [
+				"E140",
+				"E201",
+				"E301",
+				"E605",
+				"E701",
+				"E802"
+			],
+			"warningList": [
+				"W113"
+			],
+			"issue": 17,
+			"errorCount": 6,
+			"status": "open"
+		},
+		"larsdecker/ioBroker.pegelonline": {
+			"errorList": [
+				"E019",
+				"E201",
+				"E801"
+			],
+			"warningList": [
+				"W400"
+			],
+			"issue": 1,
+			"errorCount": 3,
+			"status": "open",
+			"createdDate": "2019-04-12T09:23:21Z"
 		}
 	},
 	"checkError2": {
@@ -8462,77 +8488,11 @@
 			"errorCount": 12,
 			"status": "open"
 		},
-		"sbormann/ioBroker.iqontrol": {
-			"errorList": [
-				"E005",
-				"E006",
-				"E019",
-				"E201",
-				"E300",
-				"E801",
-				"E802"
-			],
-			"warningList": [
-				"W400"
-			],
-			"issue": 1,
-			"errorCount": 7,
-			"status": "open",
-			"createdDate": "2019-04-12T09:23:40Z"
+		"thewhobox/ioBroker.airplay": {
+			"issue": null
 		},
-		"MiSchroe/ioBroker.klf200": {
-			"errorList": [
-				"E140",
-				"E201",
-				"E301",
-				"E605",
-				"E701",
-				"E802"
-			],
-			"warningList": [
-				"W113"
-			],
-			"issue": 17,
-			"errorCount": 6,
-			"status": "open"
-		}		,
-		"larsdecker/ioBroker.pegelonline": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E020",
-				"E103",
-				"E201",
-				"E300",
-				"E801"
-			],
-			"warningList": [
-				"W400"
-			],
-			"issue": 1,
-			"errorCount": 7,
-			"status": "open",
-			"createdDate": "2019-04-12T09:23:21Z"
-		},
-		"Jey-Cee/ioBroker.primelab": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E019",
-				"E020",
-				"E103",
-				"E201",
-				"E300",
-				"E801",
-				"E802"
-			],
-			"warningList": [
-				"W113",
-				"W400"
-			],
-			"issue": 3,
-			"errorCount": 9,
-			"status": "open"
+		"Jey-Cee/ioBroker.heytech": {
+			"issue": null
 		}
 	}
 }
