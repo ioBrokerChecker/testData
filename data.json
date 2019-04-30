@@ -8421,19 +8421,6 @@
 			"status": "open",
 			"createdDate": "2019-02-03T11:38:27Z"
 		},
-		"Harald-B-Rupp/ioBroker.lora-multitech": {
-			"errorList": [
-				"E103",
-				"E106",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 4,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-08T09:09:20Z"
-		},
 		"ioBroker/ioBroker.legacy": {
 			"errorList": [
 				"E301",
