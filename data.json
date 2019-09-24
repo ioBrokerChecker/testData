@@ -165,7 +165,8 @@
 		"Mic-M/iobroker.philips-tv-script",
 		"kremanjel/iobroker",
 		"tenkelmann/iobroker.bewaesserung",
-		"Mic-M/iobroker.presence-script-for-tr-064-community-adapter"
+		"Mic-M/iobroker.presence-script-for-tr-064-community-adapter",
+		"GermanBluefox/ioBroker.db"
 	],
 	"noIoPackage": [
 		"khst60/iobroker.denon",
