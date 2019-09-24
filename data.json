@@ -153,7 +153,19 @@
 		"hacki11/qmc5883-gas-meter",
 		"Denkra/iobroker.test",
 		"DMXface/ioBroker.template",
-		"bratello/GoFarmTech"
+		"bratello/GoFarmTech",
+		"peoples0815/Automatischer-ViewWechsel-",
+		"thewonderer1968/iobroker",
+		"poessi/iobroker",
+		"RaiRoo/iobroker",
+		"TheBam1990/ioBroker.template",
+		"Mic-M/iobroker.sonos-script",
+		"Mic-M/iobroker.control-ms-windows",
+		"Mic-M/iobroker.knowledge-base",
+		"Mic-M/iobroker.philips-tv-script",
+		"kremanjel/iobroker",
+		"tenkelmann/iobroker.bewaesserung",
+		"Mic-M/iobroker.presence-script-for-tr-064-community-adapter"
 	],
 	"noIoPackage": [
 		"khst60/iobroker.denon",
