@@ -148,7 +148,12 @@
 		"mufflon11/iobroker",
 		"kortos/ESP8266_DekoLight",
 		"duffbeer2000/docker-iobroker",
-		"Pix---/vis_widget_dwd_pollenflug"
+		"Pix---/vis_widget_dwd_pollenflug",
+		"hacki11/holley-dtz541-mqtt",
+		"hacki11/qmc5883-gas-meter",
+		"Denkra/iobroker.test",
+		"DMXface/ioBroker.template",
+		"bratello/GoFarmTech"
 	],
 	"noIoPackage": [
 		"khst60/iobroker.denon",
