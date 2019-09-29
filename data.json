@@ -8373,9 +8373,7 @@
 			"errorCount": 3,
 			"status": "open",
 			"createdDate": "2019-04-12T09:23:21Z"
-		}
-	},
-	"checkError2": {
+		},
 		"Apollon77/ioBroker.smartvisu": {
 			"errorList": [
 				"E115",
@@ -8492,12 +8490,9 @@
 			"issue": 4,
 			"errorCount": 12,
 			"status": "open"
-		},
-		"thewhobox/ioBroker.airplay": {
-			"issue": null
-		},
-		"Jey-Cee/ioBroker.heytech": {
-			"issue": null
 		}
+	},
+	"checkError2": {
+		
 	}
 }
