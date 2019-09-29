@@ -28,6 +28,138 @@
         }
     },
     "checkError": {
+                "ioBroker/ioBroker.icons-icons8": {
+            "errorList": ["E021", "E114", "E116", "E117", "E130", "E201", "E604", "E701", "E801"],
+            "warningList": [],
+            "issue": 2,
+            "errorCount": 9,
+            "status": "open"
+        },
+        "ioBroker/ioBroker.javascript": {
+            "errorList": ["E201", "E301"],
+            "warningList": [],
+            "issue": 371,
+            "errorCount": 2,
+            "status": "closed",
+            "createdDate": "2019-04-12T21:33:45Z"
+        },
+        "MiSchroe/ioBroker.klf200": {
+            "errorList": ["E140", "E201", "E301", "E605", "E701", "E802"],
+            "warningList": ["W113"],
+            "issue": 17,
+            "errorCount": 6,
+            "status": "open"
+        },
+        "Apollon77/ioBroker.smartvisu": {
+            "errorList": ["E115", "E201", "E301"],
+            "issue": 16,
+            "errorCount": 3,
+            "warningList": [],
+            "status": "open",
+            "createdDate": "2019-02-03T15:23:29Z"
+        },
+        "ioBroker/ioBroker.icons-open-icon-library-png": {
+            "errorList": ["E114", "E116", "E117", "E201"],
+            "issue": 3,
+            "errorCount": 4,
+            "warningList": [],
+            "status": "open",
+            "createdDate": "2019-02-03T15:23:36Z"
+        },
+        "husky-koglhof/iobroker.rules-engine": {
+            "errorList": ["E003", "E004", "E008", "E008", "E019", "E103", "E114", "E120", "E201", "E300"],
+            "issue": 1,
+            "errorCount": 10,
+            "warningList": [],
+            "status": "open",
+            "createdDate": "2019-02-01T15:23:16Z"
+        },
+        "sthufnagl/ioBroker.robonect": {
+            "errorList": ["E014", "E019", "E106", "E114", "E115", "E118", "E121", "E125", "E201", "E300"],
+            "issue": 5,
+            "errorCount": 10,
+            "warningList": [],
+            "status": "open",
+            "createdDate": "2019-02-03T11:38:27Z"
+        },
+        "ioBroker/ioBroker.legacy": {
+            "errorList": ["E301", "E605", "E701"],
+            "warningList": [],
+            "issue": 36,
+            "errorCount": 3,
+            "status": "open",
+            "createdDate": "2019-03-11T11:30:07Z"
+        },
+        "tmikulski/ioBroker.VoiceAssistant": {
+            "errorList": ["E005", "E006", "E016", "E106", "E114", "E115", "E120", "E121", "E201", "E300", "E603", "E604"],
+            "warningList": ["W113", "W400"],
+            "issue": 4,
+            "errorCount": 12,
+            "status": "open"
+        },
+        "ioBroker/ioBroker.lovelace": {
+            "issue": null
+        },
+        "thewhobox/ioBroker.airplay": {
+            "issue": null
+        },
+        "Jey-Cee/iobroker.onvif": {
+            "issue": null
+        },
+        "krriel/ioBroker.eltako_link": {
+            "issue": null
+        },
+        "Net-Felix/ioBroker.feinstaubsensor": {
+            "issue": null
+        },
+        "skitji/ioBroker.vp": {
+            "issue": null
+        },
+        "mghomedev/ioBroker.ALLNETipsocketoutlet4176": {
+            "issue": null
+        },
+        "afuerhoff/ioBroker.solarviewdatareader": {
+            "issue": null
+        },
+        "holomekc/ioBroker.bshb": {
+            "issue": null
+        },
+        "bowao/ioBroker.tino": {
+            "issue": null
+        },
+        "Scrounger/iobroker.vis-materialdesign": {
+            "issue": null
+        },
+        "upeter2/ioBroker.irtrans_up": {
+            "issue": null
+        },
+        "thesnoopy/iobroker.my-first-test": {
+            "issue": null
+        },
+        "bowao/ioBroker.tinyrx4": {
+            "issue": null
+        },
+        "5v3n-08/ioBroker.homemode": {
+            "issue": null
+        },
+        "DMXface/ioBroker.dmxface": {
+            "issue": null
+        },
+        "raspilc/ioBroker.i2clcd": {
+            "issue": null
+        },
+        "AWhiteKnight/ioBroker.e3dc": {
+            "issue": null
+        },
+        "Jensekin/ioBroker.blink": {
+            "issue": null
+        },
+        "crycode-de/ioBroker.ds18b20": {
+            "issue": null
+        },
+        "raspilc/ioBroker.mcp3xxx-analog": {
+            "issue": null
+        }
     },
     "checkError2": {
         "filippovsky/ioBroker.megadjt": {
