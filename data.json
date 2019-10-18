@@ -4206,22 +4206,6 @@
 			"status": "open",
 			"createdDate": "2019-10-14T09:45:54Z"
 		},
-		"dschaedl/ioBroker.weatherunderground": {
-			"errorList": [
-				"E019",
-				"E130",
-				"E140",
-				"E300",
-				"E802"
-			],
-			"warningList": [
-				"W113"
-			],
-			"issue": 46,
-			"errorCount": 5,
-			"status": "open",
-			"createdDate": "2019-10-14T09:46:00Z"
-		},
 		"ioBroker/ioBroker.web": {
 			"errorList": [
 				"E021",
