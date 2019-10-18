@@ -3780,7 +3780,7 @@
 			"errorCount": 6,
 			"status": "open"
 		},
-		"CTJaeger/ioBroker.sma-em": {
+		"iobroker-community-adapters/ioBroker.sma-em": {
 			"errorList": [
 				"E114",
 				"E140",
@@ -5809,7 +5809,7 @@
 			"status": "open",
 			"createdDate": "2019-02-01T15:39:59Z"
 		},
-		"CTJaeger/ioBroker.snmp": {
+		"iobroker-community-adapters/ioBroker.snmp": {
 			"errorList": [
 				"E106",
 				"E114",
