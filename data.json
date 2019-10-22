@@ -177,99 +177,19 @@
 		"tenkelmann/iobroker.bewaesserung",
 		"Mic-M/iobroker.presence-script-for-tr-064-community-adapter",
 		"GermanBluefox/ioBroker.db",
-		"Andymann/ioBroker.videomatrix",
-		"bondrogeen/ioBroker.firebase",
-		"TA2k/ioBroker.gruenbeck",
-		"ioBroker/ioBroker.history",
-		"walli545/iobroker.automation",
-		"schmupu/ioBroker.ring",
-		"iobroker-community-adapters/ioBroker.fronius",
-		"iobroker-community-adapters/ioBroker.sony-bravia",
-		"iobroker-community-adapters/ioBroker.landroid",
-		"iobroker-community-adapters/ioBroker.ical",
-		"schmupu/ioBroker.contactid",
-		"iobroker-community-adapters/ioBroker.oilfox",
-		"AlCalzone/ioBroker.ble",
-		"ioBroker/ioBroker.sql",
-		"iobroker-community-adapters/ioBroker.panasonic-viera",
-		"ioBroker/ioBroker.cloud",
-		"ioBroker/ioBroker.sonoff",
-		"tinebee94/iobroker.vis-test",
-		"ioBroker/ioBroker.owfs",
-		"ioBroker/ioBroker.socketio",
-		"SebastianSchultz/ioBroker.enet",
-		"thovid/ioBroker.viessmannapi",
-		"foxthefox/ioBroker.fritzdect",
-		"mabels/iobroker.gofiga",
-		"Muskelkatermann/ioBroker.goecharger",
-		"PyroniaDE/iobrokerAdapter",
-		"ioBroker/ioBroker.text2command",
-		"bondrogeen/ioBroker.paw",
-		"shady2k/ioBroker.state-mapping",
-		"daniel-2k/ioBroker.nanoleaf-lightpanels",
-		"jogibear9988/ioBroker.raumfeld",
-		"foxthefox/ioBroker.lifx",
-		"AlCalzone/ioBroker.g-homa",
-		"ioBroker/ioBroker.ping",
-		"schmupu/ioBroker.shelly-mqtt",
-		"shady2k/ioBroker.expire",
-		"ioBroker/ioBroker.simple-api",
-		"ioBroker/ioBroker.zwave",
-		"Pmant/ioBroker.mqtt-client",
-		"iobroker-community-adapters/ioBroker.sma-em",
-		"ioBroker/ioBroker.sonos",
-		"foxthefox/ioBroker.milight",
-		"ioBroker/ioBroker.web",
-		"klein0r/ioBroker.lametric",
-		"ioBroker/ioBroker.link",
-		"Pix---/ioBroker.tankerkoenig",
-		"schmupu/ioBroker.devicectrl",
-		"klein0r/ioBroker.octoprint",
-		"schmupu/ioBroker.shelly",
-		"AlGu1/ioBroker.hombot",
-		"twonky4/ioBroker.spotify-premium",
-		"iobroker-community-adapters/ioBroker.deconz",
-		"oberstel/ioBroker.pjlink",
-		"jensweigele/ioBroker.yahka",
-		"RPerkuhn/ioBroker.vw-carnet",
-		"ioBroker/ioBroker.mqtt",
-		"SebastianSchultz/ioBroker.lgtv11",
-		"AlCalzone/ioBroker.philips-tv",
-		"ruhr70/ioBroker.circuit",
-		"ioBroker/ioBroker.swagger",
-		"AWhiteKnight/ioBroker.moma",
-		"dna909/ioBroker.homeconnect",
-		"sebilm/ioBroker.nibeuplink",
-		"ioBroker/ioBroker.iot",
-		"frankjoke/ioBroker.bmw",
-		"dbechtel89/iobroker.alexa-adapter",
-		"Taragorm/ioBroker.evohome",
-		"tinebee94/iobroker.vis-timer",
-		"schmupu/ioBroker.pollenflug",
-		"Omega236/ioBroker.virtualpowermeter",
-		"paveltsytovich/ioBroker.noolitef",
-		"thewhobox/ioBroker.emby",
-		"iobroker-community-adapters/ioBroker.fhem",
-		"iobroker-community-adapters/ioBroker.hue",
-		"foxriver76/ioBroker.denon",
-		"Taragorm/iobroker.shed",
-		"oweitman/ioBroker.squeezeboxrpc",
-		"iobroker-community-adapters/iobroker.knmi-weather",
-		"rg-engineering/ioBroker.heatingcontrol",
-		"klein0r/ioBroker.luftdaten"
+		"Mic-M/iobroker.Adapter-Entwicklung-Dokumentation",
+		"Mic-M/iobroker.google-charts-example",
+		"Mic-M/iobroker.homematic-ip-urlaubssteuerung",
+		"David20103/iobroker.usbstream",
+		"David20103/iobroker_usbstream",
+		"David20103/ioBroker.usbstream2"
 	],
 	"noIoPackage": [
 		"iobroker-community-adapters/ioBroker.mysensors-2-community",
 		"IoTAntimon/ioBroker.zabbix",
 		"ioBroker/ioBroker.benchmark",
 		"SVallant/iobroker.visuapp",
-		"David20103/iobroker.usbstream",
-		"David20103/iobroker_usbstream",
-		"David20103/ioBroker.usbstream2",
 		"volkerrichert/ioBroker.ecotouch",
-		"Mic-M/iobroker.Adapter-Entwicklung-Dokumentation",
-		"Mic-M/iobroker.google-charts-example",
-		"Mic-M/iobroker.homematic-ip-urlaubssteuerung",
 		"marcowi/ioBroker_Relaissteuerung",
 		"DMXface/ioBroker.dmxfacexp",
 		"PKA239/ioBroker.template",
@@ -448,7 +368,24 @@
 			"status": "open"
 		}
 	},
-	"checkErrorFailture": {
+	"checkError": {
+		"ioBroker/ioBroker.material": {
+			"errorList": [
+				"E021",
+				"E114",
+				"E116",
+				"E117",
+				"E118",
+				"E124",
+				"E301",
+				"E605"
+			],
+			"warningList": [],
+			"issue": 49,
+			"errorCount": 8,
+			"status": "open",
+			"createdDate": "2019-02-01T15:08:10Z"
+		},
 		"Apollon77/ioBroker.smartvisu": {
 			"errorList": [
 				"E115",
@@ -473,25 +410,6 @@
 			"warningList": [],
 			"status": "open",
 			"createdDate": "2019-02-03T15:23:36Z"
-		},
-		"husky-koglhof/iobroker.rules-engine": {
-			"errorList": [
-				"E003",
-				"E004",
-				"E008",
-				"E008",
-				"E019",
-				"E103",
-				"E114",
-				"E120",
-				"E201",
-				"E300"
-			],
-			"issue": 1,
-			"errorCount": 10,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-01T15:23:16Z"
 		},
 		"sthufnagl/ioBroker.robonect": {
 			"errorList": [
@@ -524,6 +442,28 @@
 			"status": "open",
 			"createdDate": "2019-03-11T11:30:07Z"
 		},
+		"husky-koglhof/iobroker.rules-engine": {
+			"errorList": [
+				"E003",
+				"E004",
+				"E008",
+				"E008",
+				"E019",
+				"E103",
+				"E114",
+				"E120",
+				"E201",
+				"E300"
+			],
+			"issue": 1,
+			"errorCount": 10,
+			"warningList": [],
+			"status": "open",
+			"createdDate": "2019-02-01T15:23:16Z"
+		},
+		"upeter2/ioBroker.irtrans_up": {
+			"issue": null
+		},
 		"tmikulski/ioBroker.VoiceAssistant": {
 			"errorList": [
 				"E005",
@@ -546,55 +486,6 @@
 			"issue": 4,
 			"errorCount": 12,
 			"status": "open"
-		},
-		"thewhobox/ioBroker.airplay": {
-			"issue": null
-		},
-		"upeter2/ioBroker.irtrans_up": {
-			"issue": null
-		},
-		"raspilc/ioBroker.i2clcd": {
-			"issue": null
-		}
-	},
-	"checkError": {
-		"ioBroker/ioBroker.material": {
-			"errorList": [
-				"E021",
-				"E114",
-				"E116",
-				"E117",
-				"E118",
-				"E124",
-				"E301",
-				"E605"
-			],
-			"warningList": [],
-			"issue": 49,
-			"errorCount": 8,
-			"status": "open",
-			"createdDate": "2019-02-01T15:08:10Z"
-		},
-		"Apollon77/ioBroker.smartvisu": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.icons-open-icon-library-png": {
-			"issue": null
-		},
-		"sthufnagl/ioBroker.robonect": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.legacy": {
-			"issue": null
-		},
-		"husky-koglhof/iobroker.rules-engine": {
-			"issue": null
-		},
-		"upeter2/ioBroker.irtrans_up": {
-			"issue": null
-		},
-		"tmikulski/ioBroker.VoiceAssistant": {
-			"issue": null
 		},
 		"sbormann/ioBroker.iqontrol": {
 			"issue": null
