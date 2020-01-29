@@ -265,37 +265,13 @@
 		}
 	},
 	"checkError": {
-		"algar42/ioBroker.accuweather": {
-			"issue": null
-		},
 		"ioBroker/ioBroker.javascript": {
-			"issue": null
-		},
-		"Net-Felix/ioBroker.feinstaubsensor": {
-			"issue": null
-		},
-		"thewhobox/ioBroker.airplay": {
-			"issue": null
-		},
-		"TA2k/ioBroker.vw-weconnect": {
-			"issue": null
-		},
-		"smaragdschlange/ioBroker.nuki_simple": {
-			"issue": null
-		},
-		"drhideg/ioBroker.weathercom": {
-			"issue": null
-		},
-		"maximilianlembke/ioBroker.grundigtvremote": {
 			"issue": null
 		},
 		"ioBroker/ioBroker.lovelace": {
 			"issue": null
 		},
-		"Bettman66/ioBroker.snips": {
-			"issue": null
-		},
-		"afuerhoff/ioBroker.checkpresence": {
+		"afuerhoff/ioBroker.fb-checkpresence": {
 			"issue": null
 		},
 		"Apollon77/ioBroker.smartvisu": {
