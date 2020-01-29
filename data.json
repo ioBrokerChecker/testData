@@ -274,31 +274,11 @@
 		"maxtox/ioBroker.intesishome"
 	],
 	"checkErrorOld": {
-		"ioBroker/ioBroker.knx": {
-			"errorList": [
-				"E116",
-				"E117",
-				"E121",
-				"E124",
-				"E301"
-			],
-			"issue": 51,
-			"errorCount": 5,
-			"warningList": [],
-			"status": "open",
-			"createdDate": "2019-02-08T09:38:59Z"
+		"ioBroker/ioBroker.knx": {			
+			"issue": null
 		},
 		"ioBroker/ioBroker.lcn": {
-			"errorList": [
-				"E115",
-				"E124",
-				"E201",
-				"E300"
-			],
-			"warningList": [],
-			"issue": 3,
-			"errorCount": 4,
-			"status": "open"
+			"issue": null
 		}
 	},
 	"checkError": {
@@ -372,7 +352,7 @@
 			"issue": null
 		},
 		"foxthefox/ioBroker.musiccast": {
-			"issue": null"
+			"issue": null
 		},
 		"rg-engineering/ioBroker.openhomecontrol": {
 			"issue": null
