@@ -265,7 +265,31 @@
 		}
 	},
 	"checkError": {
-		"ioBroker/ioBroker.javascript": {
+		"Apollon77/ioBroker.alexa2": {
+			"issue": null
+		},
+		"iobroker-community-adapters/ioBroker.rpi2": {
+			"issue": null
+		},
+		"Haba1234/ioBroker.onvif": {
+			"issue": null
+		},
+		"ioBroker/ioBroker.zigbee": {
+			"issue": null
+		},
+		"frankjoke/ioBroker.xs1": {
+			"issue": null
+		},
+		"smarthomefans/ioBroker.miio": {
+			"issue": null
+		},
+		"ioBroker/ioBroker.cul": {
+			"issue": null
+		},
+		"foxthefox/ioBroker.jeelink": {
+			"issue": null
+		},
+		"iobroker-community-adapters/ioBroker.habpanel": {
 			"issue": null
 		},
 		"ioBroker/ioBroker.lovelace": {
