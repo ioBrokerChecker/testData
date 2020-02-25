@@ -1,5 +1,27 @@
 {
   "createIssue" : [
-    "oweitman/ioBroker.squeezeboxrpc"
+    "iobroker-community-adapters/ioBroker.accuweather",
+    "schmupu/ioBroker.devicectrl",
+    "t4qjXH8N/ioBroker.gardena",
+    "jachik/ioBroker.hpcontrol",
+    "truegreyhound/ioBroker.husq-automower",
+    "rg-engineering/ioBroker.minmax",
+    "hash99/ioBroker.mieleathome",
+    "StrathCole/ioBroker.myq",
+    "rgwch/ioBroker.mystrom-wifi-switch",
+    "foxthefox/ioBroker.nest",
+    "marvingrieger/ioBroker.pallazza",
+    "larsdecker/ioBroker.pegelonline",
+    "sucht3371/ioBroker.poolcontroller",
+    "smarthomefans/ioBroker.serve",
+    "darkiop/ioBroker.stiebel-lwz",
+    "CTJaeger/ioBroker.tronwallets",
+    "MaxPhenol/ioBroker.wlanthermo",
+    "JoJ123/ioBroker.xiaomiairpurifier",
+    "iobroker-community-adapters/iobroker.enocean",
+    "AttackStrawbery/iobroker.sma-speedwire",
+    "kgerlich/iobroker.sunnyportal",
+    "kgerlich/iobroker.surepetcareio",
+    "Eisbaeeer/ioBroker.onkyo-vis-dev"
   ]
 }
