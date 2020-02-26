@@ -281,7 +281,7 @@
 		"hacki11/ioBroker.valloxmv",
 		"Pmant/ioBroker.harmony",
 		"simatec/ioBroker.backitup",
-		"Zefau/ioBroker.roomba",
+		"iobroker-community-adapters/ioBroker.roomba",
 		"Zefau/ioBroker.plex",
 		"maxtox/ioBroker.intesishome",
 		"Zefau/ioBroker.tautulli",
@@ -4630,7 +4630,7 @@
 			"createdDate": "2019-02-01T15:08:12Z",
 			"help": false
 		},
-		"jens-maus/ioBroker.unifi": {
+		"iobroker-community-adapters/ioBroker.unifi": {
 			"errorList": [
 				"E106",
 				"E109",
