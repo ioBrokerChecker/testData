@@ -207,6 +207,19 @@
 		"thm-mni-ii/NgxMatIoBrokerConnectorService"
 	],
 	"checkOk": [
+		"foxthefox/ioBroker.jeelink",
+		"ioBroker/ioBroker.lovelace",
+		"Apollon77/ioBroker.smartvisu",
+		"ioBroker/ioBroker.icons-open-icon-library-png",
+		"sthufnagl/ioBroker.robonect",
+		"ioBroker/ioBroker.legacy",
+		"husky-koglhof/iobroker.rules-engine",
+		"upeter2/ioBroker.irtrans_up",
+		"tmikulski/ioBroker.VoiceAssistant",
+		"kadircanaksoy/iobroker.habitron",
+		"Bens0n68/ioBroker.go-echarger",
+		"raspilc/ioBroker.i2clcd",
+		"peterbaumert/ioBroker.unifi-protect",
 		"ioBroker/ioBroker.node-red",
 		"iobroker-community-adapters/ioBroker.tr-064",
 		"ioBroker/ioBroker.text2command",
@@ -285,48 +298,9 @@
 			"issue": null
 		}
 	},
-	"checkError": {
-		"foxthefox/ioBroker.jeelink": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.lovelace": {
-			"issue": null
-		},
-		"Apollon77/ioBroker.smartvisu": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.icons-open-icon-library-png": {
-			"issue": null
-		},
-		"sthufnagl/ioBroker.robonect": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.legacy": {
-			"issue": null
-		},
-		"husky-koglhof/iobroker.rules-engine": {
-			"issue": null
-		},
-		"upeter2/ioBroker.irtrans_up": {
-			"issue": null
-		},
-		"tmikulski/ioBroker.VoiceAssistant": {
-			"issue": null
-		},
-		"kadircanaksoy/iobroker.habitron": {
-			"issue": null
-		},
-		"Bens0n68/ioBroker.go-echarger": {
-			"issue": null
-		},
-		"raspilc/ioBroker.i2clcd": {
-			"issue": null
-		},
-		"peterbaumert/ioBroker.unifi-protect": {
-			"issue": null
-		}
+	"checkError": {		
 	},
-	"checkError2": {
+	"checkError2": {		
 		"Jey-Cee/iobroker.onvif": {
 			"errorList": [
 				"E003",
