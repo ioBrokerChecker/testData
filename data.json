@@ -315,6 +315,9 @@
 		},
 		"ioBroker/ioBroker.lcn": {
 			"issue": null
+		},
+		"foxthefox/ioBroker.jeelink": {
+			"issue": null
 		}
 	},
 	"checkError": {
@@ -11394,21 +11397,6 @@
 		}
 	},
 	"checkError2": {
-		"leon-th/ioBroker.ipwebcam": {
-			"errorList": [
-				"E201",
-				"E300",
-				"E815"
-			],
-			"warningList": [
-				"W400"
-			],
-			"issue": 1,
-			"errorCount": 3,
-			"status": "open",
-			"createdDate": "2019-11-05T11:09:46Z",
-			"help": false
-		},
 		"ioBroker/ioBroker.icons-icons8": {
 			"errorList": [
 				"E021",
@@ -11426,53 +11414,9 @@
 			"createdDate": "2019-02-03T15:42:48Z",
 			"help": false
 		},
-		"rde-master/ioBroker.Monitoring": {
-			"errorList": [
-				"E005",
-				"E006",
-				"E020",
-				"E019",
-				"E103",
-				"E125",
-				"E201",
-				"E300",
-				"E802"
-			],
-			"warningList": [
-				"W400",
-				"E801",
-				"E901"
-			],
-			"issue": 1,
-			"errorCount": 9,
-			"status": "open",
-			"createdDate": "2020-01-28T21:26:16Z",
-			"help": false
-		},
-		"Zefau/ioBroker.carddav": {
-			"errorList": [
-				"E125",
-				"E201",
-				"E301",
-				"E802",
-				"E603",
-				"E604"
-			],
-			"warningList": [
-				"W400"
-			],
-			"issue": 1,
-			"errorCount": 6,
-			"status": "open",
-			"createdDate": "2020-01-28T21:26:37Z",
-			"help": false
-		},
 		"dmaniak-tgm/ioBroker.smartstinki": {
 			"issue": null
-		},
-		"foxthefox/ioBroker.jeelink": {
-			"issue": null
-		},
+		},		
 		"ioBroker/ioBroker.lovelace": {
 			"issue": null
 		},
