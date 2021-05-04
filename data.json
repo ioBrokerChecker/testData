@@ -11394,9 +11394,7 @@
 			"status": "open",
 			"createdDate": "2020-02-27T08:14:48Z",
 			"help": false
-		}
-	},
-	"checkError2": {
+		},
 		"ioBroker/ioBroker.icons-icons8": {
 			"errorList": [
 				"E021",
@@ -11413,42 +11411,8 @@
 			"status": "open",
 			"createdDate": "2019-02-03T15:42:48Z",
 			"help": false
-		},
-		"dmaniak-tgm/ioBroker.smartstinki": {
-			"issue": null
-		},		
-		"ioBroker/ioBroker.lovelace": {
-			"issue": null
-		},
-		"Apollon77/ioBroker.smartvisu": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.icons-open-icon-library-png": {
-			"issue": null
-		},
-		"sthufnagl/ioBroker.robonect": {
-			"issue": null
-		},
-		"ioBroker/ioBroker.legacy": {
-			"issue": null
-		},
-		"husky-koglhof/iobroker.rules-engine": {
-			"issue": null
-		},
-		"upeter2/ioBroker.irtrans_up": {
-			"issue": null
-		},
-		"tmikulski/ioBroker.VoiceAssistant": {
-			"issue": null
-		},
-		"kadircanaksoy/iobroker.habitron": {
-			"issue": null
-		},
-		"Bens0n68/ioBroker.go-echarger": {
-			"issue": null
-		},
-		"raspilc/ioBroker.i2clcd": {
-			"issue": null
 		}
+	},
+	"checkError2": {		
 	}
 }
