@@ -227,8 +227,31 @@
     "Jey-Cee/iobroker.onvif-alt"
   ],
   "noIoPackage": [
-    "mohsen-inj7/Ax-LEDe",
-    "frankjoke/ioBroker.vuewebapp"
+    "3DGera/Poolfiltersteuerung",
+    "suetti/iobroker.nuki-smartlock",
+    "ssbingo/PCB---Wohnwagen-Board",
+    "Bettman66/wiobrowser",
+    "brownynik/iobroker-compose",
+    "GotenHome/ioboroker.luftfirsttest",
+    "soef/iobroker.fire-tv",
+    "HuangJunjiada/ioBrokerx",
+    "darkiop/doku-iobroker-ha",
+    "sthufnagl/iobroker.spark",
+    "kraglwatz/iobroker.trigger",
+    "sschragen/iobroker.template",
+    "flojud/iobroker-scripts",
+    "DrozmotiX/ioBroker.digitalstrom-vdc",
+    "do1eh/IObroker_Scripts",
+    "peak3d/iobroker.solvisremote",
+    "blazeis/iobroker.haier",
+    "MonsterD1/flora_iobroker",
+    "grimneko/iobroker-stack",
+    "ignis-draco/iobroker_Heathcliff",
+    "Bodengriller/iobroker_nodered",
+    "msapogov/iobroker.squeezenode",
+    "5v3n-08/iobroker-dashboard",
+    "weratyr/iobroker-controme",
+    "gsicilia82/Timer_iobroker"
   ],
   "checkOk": [
     "UncleSamSwiss/ioBroker.loxone",
@@ -760,11 +783,11 @@
       "warningList": [
         "W113"
       ],
-      "issue": 8,
+      "issue": 42,
       "errorCount": 13,
       "status": "open",
-      "createdDate": "2020-01-28T20:38:25.594Z",
-      "help": true
+      "createdDate": "2022-02-07T14:50:20Z",
+      "help": false
     },
     "iobroker-community-adapters/ioBroker.sony-bravia": {
       "errorList": [
@@ -14383,6 +14406,438 @@
       "status": "open",
       "createdDate": "2022-02-07T13:56:12Z",
       "help": false
+    },
+    "Pietri67/ioBroker.waterkotte": {
+      "errorList": [
+        "E200",
+        "E506",
+        "E802"
+      ],
+      "warningList": [
+        "W400"
+      ],
+      "issue": 1,
+      "errorCount": 3,
+      "status": "open",
+      "createdDate": "2022-02-07T14:48:51Z",
+      "help": false
+    },
+    "raintonr/ioBroker.google-smart-home-fulfillment": {
+      "errorList": [
+        "E118",
+        "E124",
+        "E201"
+      ],
+      "warningList": [],
+      "issue": 8,
+      "errorCount": 3,
+      "status": "open",
+      "createdDate": "2022-02-07T14:48:53Z",
+      "help": false
+    },
+    "ioBroker/ioBroker.xterm": {
+      "errorList": [
+        "E114",
+        "E150",
+        "E152",
+        "E154",
+        "E802"
+      ],
+      "warningList": [
+        "W505"
+      ],
+      "issue": 3,
+      "errorCount": 5,
+      "status": "open",
+      "createdDate": "2022-02-07T14:48:57Z",
+      "help": false
+    },
+    "TA2k/ioBroker.ford": {
+      "errorList": [
+        "E605",
+        "E701"
+      ],
+      "warningList": [],
+      "issue": 2,
+      "errorCount": 2,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:01Z",
+      "help": false
+    },
+    "simatec/ioBroker.pegelalarm": {
+      "errorList": [
+        "E605",
+        "E701"
+      ],
+      "warningList": [],
+      "issue": 44,
+      "errorCount": 2,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:06Z",
+      "help": false
+    },
+    "proarsing/ioBroker.uws": {
+      "errorList": [
+        "E144",
+        "E150",
+        "E152",
+        "E125",
+        "E200",
+        "E300",
+        "E802"
+      ],
+      "warningList": [
+        "W400",
+        "W505"
+      ],
+      "issue": 1,
+      "errorCount": 7,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:10Z",
+      "help": false
+    },
+    "TA2k/ioBroker.maveo": {
+      "errorList": [
+        "E605",
+        "E701"
+      ],
+      "warningList": [],
+      "issue": 2,
+      "errorCount": 2,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:14Z",
+      "help": false
+    },
+    "VBen/ioBroker.motionblinds": {
+      "errorList": [
+        "E010",
+        "E118",
+        "E201",
+        "E802",
+        "E605",
+        "E701"
+      ],
+      "warningList": [
+        "W400"
+      ],
+      "issue": 71,
+      "errorCount": 6,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:19Z",
+      "help": false
+    },
+    "uKL/iobroker.reolink": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E145",
+        "E200",
+        "E802"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 15,
+      "errorCount": 8,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:26Z",
+      "help": false
+    },
+    "gerbuchner/ioBroker.vis-owl": {
+      "errorList": [
+        "E145",
+        "E150",
+        "E152",
+        "E200"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 1,
+      "errorCount": 4,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:41Z",
+      "help": false
+    },
+    "inpex/iobroker.testprojekt": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E145",
+        "E200",
+        "E801",
+        "E802"
+      ],
+      "warningList": [
+        "W400"
+      ],
+      "issue": 1,
+      "errorCount": 9,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:44Z",
+      "help": false
+    },
+    "iobroker-community-adapters/iobroker.kodi": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E150",
+        "E152",
+        "E200",
+        "E801",
+        "E802"
+      ],
+      "warningList": [
+        "W400"
+      ],
+      "issue": 10,
+      "errorCount": 10,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:50Z",
+      "help": false
+    },
+    "Andy200877/ioBroker.solax-x1-mini-rs485": {
+      "errorList": [
+        "E145",
+        "E144",
+        "E150",
+        "E152",
+        "E154",
+        "E200",
+        "E503",
+        "E504",
+        "E801",
+        "E802",
+        "E818",
+        "E914"
+      ],
+      "warningList": [
+        "W400",
+        "W505"
+      ],
+      "issue": 1,
+      "errorCount": 12,
+      "status": "open",
+      "createdDate": "2022-02-07T14:49:55Z",
+      "help": false
+    },
+    "Lucky-ESA/iobroker.test": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E103",
+        "E144",
+        "E200",
+        "E500",
+        "E300",
+        "E801",
+        "E802",
+        "E605",
+        "E701"
+      ],
+      "warningList": [
+        "W400",
+        "W801",
+        "W901"
+      ],
+      "issue": 1,
+      "errorCount": 12,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:02Z",
+      "help": false
+    },
+    "jhedtmann/iobroker.vbb": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E125",
+        "E200",
+        "E300",
+        "E802",
+        "E603",
+        "E604"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 1,
+      "errorCount": 11,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:06Z",
+      "help": false
+    },
+    "Lucky-ESA/iobroker.pilightapi": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E103",
+        "E200",
+        "E500",
+        "E503",
+        "E300",
+        "E802",
+        "E914"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 1,
+      "errorCount": 10,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:11Z",
+      "help": false
+    },
+    "minukodu/ioBroker.minuaru": {
+      "errorList": [
+        "E506",
+        "E300"
+      ],
+      "warningList": [
+        "W400"
+      ],
+      "issue": 4,
+      "errorCount": 2,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:15Z",
+      "help": false
+    },
+    "Lucky-ESA/iobroker.fritzboxdect": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E103",
+        "E144",
+        "E140",
+        "E200",
+        "E500",
+        "E503",
+        "E300",
+        "E801",
+        "E802",
+        "E605",
+        "E701",
+        "E914"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 1,
+      "errorCount": 15,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:24Z",
+      "help": false
+    },
+    "mcbiber/iobroker.energy": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E125",
+        "E200",
+        "E506",
+        "E801",
+        "E802",
+        "E605",
+        "E701"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 1,
+      "errorCount": 12,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:28Z",
+      "help": false
+    },
+    "phoenix-pnp/iobroker.speedtest": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E200",
+        "E801",
+        "E802"
+      ],
+      "warningList": [
+        "W400",
+        "W801"
+      ],
+      "issue": 15,
+      "errorCount": 8,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:33Z",
+      "help": false
+    },
+    "Erdnuss3003/iobroker.webersystems": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E150",
+        "E152",
+        "E154",
+        "E200",
+        "E300",
+        "E801",
+        "E802"
+      ],
+      "warningList": [
+        "W400",
+        "W801",
+        "W901"
+      ],
+      "issue": 1,
+      "errorCount": 12,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:37Z",
+      "help": false
+    },
+    "swissglider/iobroker.thehome": {
+      "errorList": [
+        "E003",
+        "E004",
+        "E020",
+        "E019",
+        "E103",
+        "E118",
+        "E200",
+        "E802"
+      ],
+      "warningList": [
+        "W400"
+      ],
+      "issue": 130,
+      "errorCount": 8,
+      "status": "open",
+      "createdDate": "2022-02-07T14:50:44Z",
+      "help": false
     }
   },
   "checkError2": {
@@ -15493,33 +15948,6 @@
       "createdDate": "2021-05-04T18:35:24.158Z",
       "help": true
     },
-    "Pietri67/ioBroker.waterkotte": {
-      "issue": null
-    },
-    "raintonr/ioBroker.google-smart-home-fulfillment": {
-      "issue": null
-    },
-    "ioBroker/ioBroker.xterm": {
-      "issue": null
-    },
-    "TA2k/ioBroker.ford": {
-      "issue": null
-    },
-    "simatec/ioBroker.pegelalarm": {
-      "issue": null
-    },
-    "proarsing/ioBroker.uws": {
-      "issue": null
-    },
-    "TA2k/ioBroker.maveo": {
-      "issue": null
-    },
-    "VBen/ioBroker.motionblinds": {
-      "issue": null
-    },
-    "uKL/iobroker.reolink": {
-      "issue": null
-    },
     "Vertumnus/ioBroker.vue": {
       "issue": null
     },
@@ -15527,54 +15955,6 @@
       "issue": null
     },
     "Schpeidaman/ioBroker.Luxtronik2": {
-      "issue": null
-    },
-    "fm611/iobroker.test_adapter": {
-      "issue": null
-    },
-    "VLGorskij/ioBroker.mihome_My": {
-      "issue": null
-    },
-    "gerbuchner/ioBroker.vis-owl": {
-      "issue": null
-    },
-    "inpex/iobroker.testprojekt": {
-      "issue": null
-    },
-    "iobroker-community-adapters/iobroker.kodi": {
-      "issue": null
-    },
-    "Andy200877/ioBroker.solax-x1-mini-rs485": {
-      "issue": null
-    },
-    "Lucky-ESA/iobroker.test": {
-      "issue": null
-    },
-    "jhedtmann/iobroker.vbb": {
-      "issue": null
-    },
-    "Lucky-ESA/iobroker.pilightapi": {
-      "issue": null
-    },
-    "minukodu/ioBroker.minuaru": {
-      "issue": null
-    },
-    "iobroker-community-adapters/ioBroker.lightify": {
-      "issue": null
-    },
-    "Lucky-ESA/iobroker.fritzboxdect": {
-      "issue": null
-    },
-    "mcbiber/iobroker.energy": {
-      "issue": null
-    },
-    "phoenix-pnp/iobroker.speedtest": {
-      "issue": null
-    },
-    "Erdnuss3003/iobroker.webersystems": {
-      "issue": null
-    },
-    "swissglider/iobroker.thehome": {
       "issue": null
     }
   }
