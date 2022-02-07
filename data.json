@@ -1,5 +1,5 @@
 {
-  "alreadydone": [],
+  "alreadydone": ["baerengraben/ioBroker.swiss-weather-api","iobroker-community-adapters/ioBroker.samsung","nobl/ioBroker.senec","Homemade-Disaster/ioBroker.netatmo-energy","iobroker-community-adapters/ioBroker.hue","iobroker-community-adapters/ioBroker.places","instalator/iobroker.mikrotik","Grizzelbee/ioBroker.dysonairpurifier","bropat/ioBroker.euSec","iobroker-community-adapters/ioBroker.nello","iobroker-community-adapters/ioBroker.fhem","kgerlich/iobroker.surepetcareio","DrozmotiX/ioBroker.opentherm","unltdnetworx/ioBroker.energymanager","iobroker-community-adapters/ioBroker.statistics","sirjojo69/ioBroker.awattar","LightYarn/ioBroker.ventcubecontrol","ruhr70/ioBroker.fritzbox","inapsis/ioBroker.palazzetti","ioBroker/ioBroker.maxcul"],
   "ignore": [
     "iobroker-community-adapters/ioBroker.squeezebox",
     "weltmeyer/ioBroker.gree_aircon",
