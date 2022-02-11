@@ -229,6 +229,11 @@
   ],
   "noIoPackage": [],
   "checkOk": [
+    "TheBam1990/ioBroker.trivum",
+    "TheBam1990/ioBroker.meldungsliste",
+    "TheBam1990/ioBroker.omron-fins",
+    "TheBam1990/ioBroker.eib-knx",
+    "TheBam1990/ioBroker.clage-dsx",
     "UncleSamSwiss/ioBroker.loxone",
     "ioBroker/ioBroker.iot",
     "walli545/ioBroker.time-switch",
