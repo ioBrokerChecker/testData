@@ -234,30 +234,7 @@
     "ioBroker/ioBroker.lcn",
     "foxthefox/ioBroker.jeelink"
   ],
-  "noIoPackage": [
-    "c1328/ahoy-iobroker-influx-grafana",
-    "zugch/ioBroker-Tools",
-    "lucamonte86/iobroker-danfoss",
-    "oberstel/ioBroker.js-rotelControl",
-    "G-Wrede/IOBROKER-JS",
-    "AlCalzone/iobroker-react",
-    "buechner/ioBroker.test",
-    "GodHunter/iobroker-solaredge",
-    "OleSanmann/Victron-VRM",
-    "mcm1957/ioBroker.library",
-    "Ranzig93/Daly_BMS_IoBroker",
-    "Schmakus/ioBroker-Scripte",
-    "mikesch-1960/ioBroker-hub",
-    "katzenschreck/Homematic-Steuerung-12V-Dachfenster",
-    "Wiesel90/iobroker-pihole-blocky",
-    "GodHunter/ioBroker.unifipresence",
-    "technolion/ioBroker.wallboxExcessPV",
-    "ThomasPohl/esp32_ferraris_iobroker",
-    "Low-Frequency/ansible-role-iobroker",
-    "MiGoller/iobroker-docker",
-    "mikesch-1960/demo-ioBroker_REST-API_with_browser",
-    "Schnup89/ioBroker_WearV2"
-  ],
+  "noIoPackage": [],
   "checkOk": [
     "ioBroker/ioBroker.parser",
     "simatec/ioBroker.shuttercontrol",
@@ -1317,7 +1294,47 @@
     "iobroker-community-adapters/ioBroker.cec2",
     "WLAN-Kabel/ioBroker.contact",
     "Malaus-io/ioBroker.dali",
-    "Bettman66/ioBroker.wiobrowser"
+    "Bettman66/ioBroker.wiobrowser",
+    "ANB777/ioBroker.xmpp",
+    "Garfonso/ioBroker.autoshadow",
+    "mericon/ioBroker.signalclirestapiclient",
+    "jb-io/ioBroker.keenergy",
+    "foxriver76/ioBroker.benchmark",
+    "foxriver76/ioBroker.puppeteer",
+    "amandebu/ioBroker.rest",
+    "raspilc/ioBroker.i2clcd",
+    "okeck1982/ioBroker.pioneer_sc_vsx",
+    "AxelKroll/ioBroker.lns_device_access",
+    "iPhilBln/ioBroker.sky-q",
+    "joplo/ioBroker.meinrct",
+    "raumi22/HCL-Control",
+    "nobodyMO/ioBroker.energenie",
+    "Holle-0815/ioBroker.shutter-the-sun",
+    "Andymann/ioBroker.btouch_audiomatrix_b2008",
+    "papi74/ioBroker.philipstv-iob",
+    "dma7/ioBroker.rl-ventilation",
+    "aheitmann/ioBroker.hsp",
+    "FossyTom/ioBroker.goodwe",
+    "bondrogeen/ioBroker.alisa",
+    "h3llh0und/ioBroker.magentatv",
+    "alexanderbleyl/ioBroker.discord_bot",
+    "wolkeSoftware/ioBroker.woso_mitsu_aircon_rac",
+    "homecineplexx/ioBroker.shuttercontrol-ai",
+    "boriswerner/iobroker.boriswerner_testadapter",
+    "lacluandea/ioBroker.testowtracks",
+    "hgschiller/ioBroker.weekplan",
+    "proper0912/ioBroker.verbrauchszaehler",
+    "lonestar2001/ioBroker.idm",
+    "dkleber89/ioBroker.beckhoff-automation",
+    "GledholtHall/ioBroker.hubitat",
+    "JoeSchDev/ioBroker.ecodata-powerdog",
+    "Kpt74/ioBroker.family-calendar",
+    "xXBJXx/ioBroker.hue-sync-box",
+    "maxx8888/ioBroker.ochsner-web2com",
+    "fbracke/ioBroker.electric-consumption",
+    "ChriD/ioBroker.myhabitat",
+    "TimeToCode15/ioBroker.yubii-home",
+    "Apollon77/ioBroker.apsystems"
   ],
   "checkErrorOld": {},
   "checkError": {
@@ -1503,14 +1520,14 @@
       "errorList": [
         "E104",
         "E114",
+        "E140",
         "E150",
         "E152",
         "E154",
-        "E140",
-        "E504",
         "E301",
-        "E802",
-        "E605"
+        "E504",
+        "E605",
+        "E802"
       ],
       "warningList": [
         "W113"
@@ -1738,12 +1755,12 @@
     },
     "Horatio2084/ioBroker.fordpass": {
       "errorList": [
-        "E145",
         "E125",
+        "E145",
         "E201",
-        "E802",
         "E605",
-        "E701"
+        "E701",
+        "E802"
       ],
       "warningList": [
         "W400"
@@ -1906,8 +1923,8 @@
       "errorList": [
         "E005",
         "E006",
-        "E020",
         "E019",
+        "E020",
         "E103",
         "E104",
         "E150",
@@ -2155,9 +2172,9 @@
     "jampr21/ioBroker.snapcast": {
       "errorList": [
         "E200",
-        "E802",
         "E603",
-        "E604"
+        "E604",
+        "E802"
       ],
       "warningList": [
         "W400"
@@ -2246,14 +2263,14 @@
         "E002",
         "E004",
         "E007",
-        "E020",
         "E019",
+        "E020",
         "E103",
         "E125",
         "E200",
-        "E802",
         "E605",
-        "E701"
+        "E701",
+        "E802"
       ],
       "warningList": [
         "W400"
@@ -4183,127 +4200,10 @@
     "rg-engineering/ioBroker.vis-weather": {
       "issue": null
     },
-    "ANB777/ioBroker.xmpp": {
-      "issue": null
-    },
-    "Garfonso/ioBroker.autoshadow": {
-      "issue": null
-    },
-    "mericon/ioBroker.signalclirestapiclient": {
-      "issue": null
-    },
-    "jb-io/ioBroker.keenergy": {
-      "issue": null
-    },
-    "foxriver76/ioBroker.benchmark": {
-      "issue": null
-    },
-    "foxriver76/ioBroker.puppeteer": {
-      "issue": null
-    },
-    "amandebu/ioBroker.rest": {
-      "issue": null
-    },
-    "raspilc/ioBroker.i2clcd": {
-      "issue": null
-    },
-    "okeck1982/ioBroker.pioneer_sc_vsx": {
-      "issue": null
-    },
-    "AxelKroll/ioBroker.lns_device_access": {
-      "issue": null
-    },
-    "iPhilBln/ioBroker.sky-q": {
-      "issue": null
-    },
-    "joplo/ioBroker.meinrct": {
-      "issue": null
-    },
-    "raumi22/HCL-Control": {
-      "issue": null
-    },
-    "nobodyMO/ioBroker.energenie": {
-      "issue": null
-    },
-    "Holle-0815/ioBroker.shutter-the-sun": {
-      "issue": null
-    },
-    "Andymann/ioBroker.btouch_audiomatrix_b2008": {
-      "issue": null
-    },
-    "papi74/ioBroker.philipstv-iob": {
-      "issue": null
-    },
-    "dma7/ioBroker.rl-ventilation": {
-      "issue": null
-    },
-    "aheitmann/ioBroker.hsp": {
-      "issue": null
-    },
-    "FossyTom/ioBroker.goodwe": {
-      "issue": null
-    },
-    "bondrogeen/ioBroker.alisa": {
-      "issue": null
-    },
-    "h3llh0und/ioBroker.magentatv": {
-      "issue": null
-    },
-    "alexanderbleyl/ioBroker.discord_bot": {
-      "issue": null
-    },
-    "wolkeSoftware/ioBroker.woso_mitsu_aircon_rac": {
-      "issue": null
-    },
-    "homecineplexx/ioBroker.shuttercontrol-ai": {
-      "issue": null
-    },
-    "boriswerner/iobroker.boriswerner_testadapter": {
-      "issue": null
-    },
-    "lacluandea/ioBroker.testowtracks": {
-      "issue": null
-    },
-    "hgschiller/ioBroker.weekplan": {
-      "issue": null
-    },
-    "proper0912/ioBroker.verbrauchszaehler": {
-      "issue": null
-    },
-    "lonestar2001/ioBroker.idm": {
-      "issue": null
-    },
-    "dkleber89/ioBroker.beckhoff-automation": {
-      "issue": null
-    },
-    "GledholtHall/ioBroker.hubitat": {
-      "issue": null
-    },
-    "JoeSchDev/ioBroker.ecodata-powerdog": {
-      "issue": null
-    },
-    "Kpt74/ioBroker.family-calendar": {
-      "issue": null
-    },
-    "xXBJXx/ioBroker.hue-sync-box": {
-      "issue": null
-    },
-    "maxx8888/ioBroker.ochsner-web2com": {
-      "issue": null
-    },
-    "fbracke/ioBroker.electric-consumption": {
-      "issue": null
-    },
-    "ChriD/ioBroker.myhabitat": {
-      "issue": null
-    },
     "Hoedi1030/ioBroker.project-name-1": {
       "issue": null
     },
-    "TimeToCode15/ioBroker.yubii-home": {
-      "issue": null
-    },
-    "Apollon77/ioBroker.apsystems": {
+    "DrozmotiX/ioBroker.digitalstrom-vdc": {
       "issue": null
     }
   },
@@ -8026,46 +7926,11 @@
     }
   },
   "dependVISwwwOnly": [
-    "Taragorm/ioBroker.vistaragorm",
-    "tinebee94/iobroker.vis-testv",
-    "ioBroker/ioBroker.vis-history",
-    "ioBroker/ioBroker.vis-jqui-mfd",
-    "preout/ioBroker.widgettest",
-    "preout/ioBroker.vis-gumbi",
-    "ioBroker/ioBroker.vis-map",
-    "ioBroker/ioBroker.vis-fancyswitch",
-    "ioBroker/ioBroker.vis-keyboard",
-    "SteMaker/ioBroker.vis-vdr",
-    "ioBroker/ioBroker.vis-colorpicker",
-    "GeoCeKid/iobroker.vis-gckcountdown",
-    "ioBroker/ioBroker.vis-knob",
-    "smiling-Jack/ioBroker.vis-wwc",
-    "DeepCoreSystem/iobroker.vis-playground",
-    "ioBroker/ioBroker.vis-plumb",
-    "ioBroker/ioBroker.vis-rgraph",
-    "DeepCoreSystem/iobroker.vis-deepcore",
     "iobroker-community-adapters/ioBroker.vis-material",
-    "ioBroker/ioBroker.vis-special-charts",
-    "ioBroker/ioBroker.vis-canvas-gauges",
-    "GermanBluefox/ioBroker.vis-circlemenu",
-    "ioBroker/ioBroker.vis-bars",
-    "Nic0205/ioBroker.vis-menus",
-    "julien100/ioBroker.vis-julienwidgets",
-    "salambelgord/ioBroker-vis.splitsys",
-    "iobroker-community-adapters/ioBroker.vis-justgage",
     "ioBroker/ioBroker.vis-lcars",
     "ioBroker/ioBroker.vis-hqwidgets",
     "ioBroker/ioBroker.vis-timeandweather",
-    "VictorSvetogor/ioBroker.airpurifier",
-    "nobodyMO/iobroker.vis-codeeditor",
-    "nobodyMO/iobroker.vis-fritzbox",
-    "nobodyMO/iobroker.vis-treeview",
-    "om2804/ioBroker.vis-material-webfont",
-    "GOOFY008/ioBroker.bootstrap4",
-    "AlfonzRitzek/ioBroker.sc-terminals",
-    "Excodibur/ioBroker.vis-3dmodel",
     "inventwo/ioBroker.vis-icontwo",
-    "gerbuchner/ioBroker.vis-owl",
     "HeikoCorpInc/ioBroker.hegovis",
     "1mp/ioBroker.floorplan3d",
     "CrunkFX/ioBroker.shellystyledwidgets",
@@ -8082,29 +7947,14 @@
     "MrStefanH/ioBroker.zugspitze-widgets",
     "nobodyMO/ioBroker.photovoltaikcharts",
     "iobroker-community-adapters/ioBroker.vis-players",
-    "rg-engineering/ioBroker.vis-weather"
+    "rg-engineering/ioBroker.vis-weather",
+    "Hoedi1030/ioBroker.project-name-1"
   ],
   "dependVIS": [
-    "walli545/iobroker.automation",
-    "tinebee94/iobroker.vis-test",
-    "tinebee94/iobroker.vis-timer",
-    "Taragorm/ioBroker.evohome",
-    "dotti-ba/iobroker.bacnet",
-    "leftstring/iobroker.sipadapter",
-    "leftstring/iobroker.adapter.asterisk",
-    "runsnbunsn/ioBroker.fontui",
-    "Spero1986/ioBroker.tasmotastandalone",
     "ioBroker/ioBroker.eventlist",
-    "WLAN-Kabel/ioBroker.calendar",
-    "xDGeForcexD/ioBroker.ah-mixer",
-    "vvitt69/ioBroker.residents",
-    "birdracoon/ioBroker.voggue-vis",
     "gaudes/ioBroker.slideshow",
     "oweitman/ioBroker.rssfeed",
     "Morluktom/ioBroker.lg-ess-home",
-    "instalator/iobroker.exchangerates",
-    "oweitman/ioBroker.tvprogram",
-    "TheBam1990/ioBroker.eib-knx",
     "dmaniak/ioBroker.smartstinki",
     "willi151974/ioBroker.ISoftSafe",
     "dieegorenan/ioBroker.grohe-template",
@@ -8132,123 +7982,26 @@
     "inventwo/ioBroker.vis-inventwo"
   ],
   "noRestartVIS2": [
-    "Taragorm/ioBroker.vistaragorm",
-    "walli545/iobroker.automation",
-    "tinebee94/iobroker.vis-testv",
-    "tinebee94/iobroker.vis-test",
-    "tinebee94/iobroker.vis-timer",
-    "kraglwatz/ioBroker.becker",
-    "kais0r/ioBroker.kmcanio",
-    "GeorgZanke/ioBroker.pokeys",
-    "Tschoker/ioBroker.spritpreisrechner",
-    "ioBroker/ioBroker.vis-history",
-    "hash99/ioBroker.pioneer",
-    "mbernau/ioBroker.hama",
-    "ioBroker/ioBroker.vis-jqui-mfd",
-    "aputilov/ioBroker.breezart",
-    "raspilc/ioBroker.raspilc",
-    "tpostman/ioBroker.ozw",
-    "preout/ioBroker.widgettest",
-    "xtobiasx/ioBroker.luftdaten",
-    "fungus75/ioBroker.hptoner",
-    "ApolloSK/ioBroker.hmip_ap",
-    "utzhelmut/ioBroker.vu",
-    "preout/ioBroker.vis-gumbi",
-    "kirovilya/ioBroker.otgw",
-    "oyooyo/ioBroker.keyble",
-    "kais0r/ioBroker.kmcanio2",
-    "ioBroker/ioBroker.vis-map",
-    "ioBroker/ioBroker.vis-fancyswitch",
-    "ioBroker/ioBroker.vis-google-fonts",
-    "ioBroker/ioBroker.vis-keyboard",
-    "DJONvl/ioBroker.ivr",
-    "SteMaker/ioBroker.vis-vdr",
-    "ioBroker/ioBroker.vis-colorpicker",
-    "GeoCeKid/iobroker.vis-gckcountdown",
-    "ioBroker/ioBroker.vis-knob",
-    "smiling-Jack/ioBroker.vis-wwc",
-    "Networks4Industry/ioBroker.RutenbeckLink",
-    "DeepCoreSystem/iobroker.vis-playground",
-    "ioBroker/ioBroker.vis-plumb",
-    "Sven18/ioBroker.luftdaten",
-    "ioBroker/ioBroker.vis-rgraph",
-    "mrangni/ioBroker.smawebbox",
-    "bondrogeen/ioBroker.hilink",
-    "DeepCoreSystem/iobroker.vis-deepcore",
     "iobroker-community-adapters/ioBroker.vis-material",
-    "foxthefox/ioBroker.hkv",
-    "DeadBoolean/ioBroker.zoneminder",
-    "ioBroker/ioBroker.vis-special-charts",
-    "ioBroker/ioBroker.vis-canvas-gauges",
-    "instalator/iobroker.starline",
-    "kirovilya/ioBroker.miio",
-    "GermanBluefox/ioBroker.vis-circlemenu",
-    "Favd/ioBroker.orvibo",
     "ioBroker/ioBroker.vis",
-    "ioBroker/ioBroker.vis-bars",
-    "Nic0205/ioBroker.vis-menus",
-    "julien100/ioBroker.vis-julienwidgets",
-    "swissglider/ioBroker.zeptrion",
-    "mrinc/ioBroker.accessControl",
-    "salambelgord/ioBroker-vis.splitsys",
-    "iobroker-community-adapters/ioBroker.botvac",
-    "ioBroker/ioBroker.graphpic-messages",
-    "iobroker-community-adapters/ioBroker.vis-justgage",
-    "Warsnake/ioBroker.tplink",
-    "mafof/ioBroker.mihome-humidifier",
     "Eisbaeeer/ioBroker.vr200",
-    "veksoft/ioBroker.cubietruck",
     "ioBroker/ioBroker.vis-lcars",
-    "ioBroker/ioBroker.vis-metro",
-    "dna909/iobroker.proxmox",
     "ioBroker/ioBroker.vis-hqwidgets",
-    "bratello/ioBroker.gofarmtech",
-    "instalator/iobroker.kodi",
     "ioBroker/ioBroker.vis-timeandweather",
-    "VictorSvetogor/ioBroker.airpurifier",
-    "micro7/ioBroker.lirc",
-    "nobodyMO/iobroker.vis-codeeditor",
-    "nobodyMO/iobroker.vis-fritzbox",
-    "nobodyMO/iobroker.vis-treeview",
-    "granturism0/ioBroker.zeptrion",
-    "dotti-ba/iobroker.bacnet",
-    "leftstring/iobroker.sipadapter",
-    "leftstring/iobroker.adapter.asterisk",
-    "runsnbunsn/ioBroker.fontui",
     "iobroker-community-adapters/ioBroker.chromecast",
-    "om2804/ioBroker.vis-material-webfont",
-    "GOOFY008/ioBroker.bootstrap4",
-    "Spero1986/ioBroker.tasmotastandalone",
-    "sthufnagl/ioBroker.robonect",
     "ioBroker/ioBroker.eventlist",
-    "AlfonzRitzek/ioBroker.sc-terminals",
-    "TottiToad2016/iobroker.saugertest",
     "klein0r/ioBroker.youtube",
-    "foxthefox/ioBroker.milight",
-    "AlGu1/ioBroker.hombot",
-    "PericNikola/ioBroker.tinytx4",
-    "ioBroker/ioBroker.vis-powertrust-fonts",
     "klein0r/ioBroker.trashschedule",
     "foxthefox/ioBroker.lifx",
-    "WLAN-Kabel/ioBroker.calendar",
-    "Excodibur/ioBroker.vis-3dmodel",
-    "xDGeForcexD/ioBroker.ah-mixer",
-    "vvitt69/ioBroker.residents",
-    "birdracoon/ioBroker.voggue-vis",
     "iobroker-community-adapters/ioBroker.info",
-    "Scrounger/ioBroker.vis-materialdesign",
     "inventwo/ioBroker.vis-icontwo",
     "gaudes/ioBroker.slideshow",
     "oweitman/ioBroker.rssfeed",
     "Morluktom/ioBroker.lg-ess-home",
     "foxriver76/ioBroker.sonnen",
     "foxriver76/ioBroker.bring",
-    "oweitman/ioBroker.squeezeboxrpc",
     "ioBroker/ioBroker.scheduler",
-    "oweitman/ioBroker.tvprogram",
-    "gerbuchner/ioBroker.vis-owl",
     "iobroker-community-adapters/ioBroker.kodi",
-    "TheBam1990/ioBroker.eib-knx",
     "dmaniak/ioBroker.smartstinki",
     "willi151974/ioBroker.ISoftSafe",
     "HeikoCorpInc/ioBroker.hegovis",
@@ -8299,6 +8052,7 @@
     "Homemade-Disaster/ioBroker.netatmo-energy",
     "oweitman/ioBroker.openligadb",
     "foxthefox/ioBroker.fritzdect",
-    "rg-engineering/ioBroker.vis-weather"
+    "rg-engineering/ioBroker.vis-weather",
+    "Hoedi1030/ioBroker.project-name-1"
   ]
 }
